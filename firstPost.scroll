@@ -1,0 +1,7 @@
+import header.scroll
+title Hello world
+date 2022.12.05
+
+* This is my first blog post using Scroll. This post will appear in the feed and on the index page.
+groups index
+scrollFooter
