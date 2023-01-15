@@ -1,8 +1,8 @@
 importOnly
-github https://github.com/breck7/scroll
-viewSourceBaseUrl https://github.com/breck7/scroll/blob/main
-twitter https://twitter.com/breckyunits
-email feedback@scroll.pub
-baseUrl https://scroll.pub/
+git https://github.com/breck7/news.pub
+viewSourceBaseUrl https://github.com/breck7/news.pub/blob/main
+email feedback@news.pub
+baseUrl https://news.pub/
+metaTags
 scrollCssTag
 scrollHeader

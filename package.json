@@ -1,0 +1,19 @@
+{
+  "name": "news.pub",
+  "version": "1.0.0",
+  "description": "The _new_ frontpage of the internet.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/breck7/news.pub.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/breck7/news.pub/issues"
+  },
+  "homepage": "https://github.com/breck7/news.pub#readme"
+}

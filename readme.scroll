@@ -1,0 +1,9 @@
+import header.scroll
+title news.pub
+
+# The _new_ frontpage of the internet.
+
+# Email beta@news.pub to join the beta
+
+scrollFooter
+permalink index.html
