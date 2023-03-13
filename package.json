@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/breck7/news.pub/issues"
   },
-  "homepage": "https://github.com/breck7/news.pub#readme"
+  "homepage": "https://github.com/breck7/news.pub#readme",
+  "dependencies": {
+    "scroll-cli": "^62.0.1"
+  }
 }

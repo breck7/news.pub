@@ -1,9 +1,25 @@
 import header.scroll
-title news.pub
+title News.pub
 
-# The _new_ frontpage of the internet.
+## A growing collection of print-at-home public domain local newspapers
 
-# Email beta@news.pub to join the beta
+startColumns 1
+
+## The Long Beach Pub
+ https://longbeach.pub
+image longbeach.jpg
+
+## The Hawai'i Pub
+ https://hawaii.pub
+image hawaii.jpg
+
+## The Manhattan Pub
+ https://manhattan.pub
+image manhattan.jpg
+
+endColumns
+
+
 
 scrollFooter
 permalink index.html
