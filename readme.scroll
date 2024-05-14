@@ -1,0 +1,14 @@
+import header.scroll
+title News.pub
+
+thinColumns 1
+
+<br><br>
+
+blink Coming soon
+ tag h1
+ style text-align:center;
+
+endColumns
+
+permalink index.html
