@@ -4,5 +4,5 @@ viewSourceBaseUrl https://github.com/breck7/news.pub/blob/main
 email feedback@news.pub
 baseUrl https://news.pub/
 metaTags
-scrollCssTag
-scrollHeader
+gazetteCss
+pageHeader

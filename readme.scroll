@@ -1,25 +1,14 @@
 import header.scroll
 title News.pub
 
-## A growing collection of print-at-home public domain local newspapers
+thinColumns 1
 
-startColumns 1
+<br><br>
 
-## The Long Beach Pub
- https://longbeach.pub
-image longbeach.jpg
-
-## The Hawai'i Pub
- https://hawaii.pub
-image hawaii.jpg
-
-## The Manhattan Pub
- https://manhattan.pub
-image manhattan.jpg
+blink Coming soon
+ tag h1
+ style text-align:center;
 
 endColumns
 
-
-
-scrollFooter
 permalink index.html

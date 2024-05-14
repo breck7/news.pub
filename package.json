@@ -4,7 +4,10 @@
   "description": "The _new_ frontpage of the internet.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "build": "scroll list | scroll build",
+    "test": "scroll list | scroll test",
+    "open": "open index.html",
+    "up": "npm install scroll-cli@latest"
   },
   "repository": {
     "type": "git",
@@ -17,6 +20,6 @@
   },
   "homepage": "https://github.com/breck7/news.pub#readme",
   "dependencies": {
-    "scroll-cli": "^62.0.1"
+    "scroll-cli": "^87.0.0"
   }
 }
