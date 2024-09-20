@@ -1,8 +1,6 @@
 importOnly
-git https://github.com/breck7/news.pub
-viewSourceBaseUrl https://github.com/breck7/news.pub/blob/main
-email feedback@news.pub
-baseUrl https://news.pub/
 metaTags
+buildTxt
+buildHtml
 gazetteCss
-pageHeader
+viewSourceButton

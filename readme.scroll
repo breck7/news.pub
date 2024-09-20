@@ -1,14 +1,6 @@
-import header.scroll
-title News.pub
-
-thinColumns 1
-
-<br><br>
-
-blink Coming soon
- tag h1
- style text-align:center;
-
-endColumns
-
+title News
 permalink index.html
+viewSourceUrl https://github.com/breck7/news.pub
+header.scroll
+
+countdown.html
