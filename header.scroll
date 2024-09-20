@@ -2,6 +2,7 @@ importOnly
 metaTags
 buildTxt
 buildHtml
-gazetteCss
 viewSourceButton
 openGraphImage og.gif
+css
+ .abstractIconButtonParser {z-index: 5;}
