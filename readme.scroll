@@ -1,6 +1,7 @@
-title News
+title News - news for builders.
 permalink index.html
 viewSourceUrl https://github.com/breck7/news.pub
 header.scroll
+description News for builders.
 
 countdown.html
