@@ -389,5 +389,133 @@ h4.scrollQuestion {
 
 </style>
 <style>.abstractIconButtonParser {position:absolute;top:0.25rem; }.abstractIconButtonParser svg {fill: rgba(204,204,204,.8);width:1.875rem;height:1.875rem; padding: 0 7px;} .abstractIconButtonParser:hover svg{fill: #333;}</style><a href="https://github.com/breck7/news.pub" class="doNotPrint abstractIconButtonParser" style="right:2rem;"><svg xmlns="http://www.w3.org/2000/svg" width="92pt" height="92pt" viewBox="0 0 92 92"><path d="M90.156 41.965 50.036 1.848a5.913 5.913 0 0 0-8.368 0l-8.332 8.332 10.566 10.566a7.03 7.03 0 0 1 7.23 1.684 7.043 7.043 0 0 1 1.673 7.277l10.183 10.184a7.026 7.026 0 0 1 7.278 1.672 7.04 7.04 0 0 1 0 9.957 7.045 7.045 0 0 1-9.961 0 7.038 7.038 0 0 1-1.532-7.66l-9.5-9.497V59.36a7.04 7.04 0 0 1 1.86 11.29 7.04 7.04 0 0 1-9.957 0 7.04 7.04 0 0 1 0-9.958 7.034 7.034 0 0 1 2.308-1.539V33.926a7.001 7.001 0 0 1-2.308-1.535 7.049 7.049 0 0 1-1.516-7.7L29.242 14.273 1.734 41.777a5.918 5.918 0 0 0 0 8.371L41.855 90.27a5.92 5.92 0 0 0 8.368 0l39.933-39.934a5.925 5.925 0 0 0 0-8.371"/></svg></a>
+<style>
+    body,
+    html {
+        height: 100%;
+        margin: 0;
+        font-family: Arial, sans-serif;
+        overflow: hidden;
+    }
+    .background {
+        position: fixed;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        background: linear-gradient(to bottom, #1a2980 0%, #26d0ce 100%);
+    }
+    .stars {
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        pointer-events: none;
+    }
+    .star {
+        position: absolute;
+        background-color: #ffffff;
+        border-radius: 50%;
+        animation: twinkle 2s infinite ease-in-out;
+    }
+    @keyframes twinkle {
+        0%,
+        100% {
+            opacity: 0;
+        }
+        50% {
+            opacity: 1;
+        }
+    }
+    .container {
+        position: relative;
+        z-index: 1;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        height: 100%;
+        text-align: center;
+        color: white;
+    }
+    #timer {
+        font-size: 8vw;
+        font-weight: bold;
+        text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+    }
+    .label {
+        font-size: 1.5vw;
+        opacity: 0.8;
+        margin-top: 20px;
+    }
+</style>
+
+<div class="background"></div>
+<div class="stars"></div>
+<div class="container">
+    <div id="timer">Loading...</div>
+    <div class="label">news.pub launches September 21, 2024 8:31:11 AM HST</div>
+</div>
+
+<script>
+    function getTimeRemaining(endtime) {
+        const total = Date.parse(endtime) - Date.parse(new Date())
+        const seconds = Math.floor((total / 1000) % 60)
+        const minutes = Math.floor((total / 1000 / 60) % 60)
+        const hours = Math.floor((total / (1000 * 60 * 60)) % 24)
+        const days = Math.floor(total / (1000 * 60 * 60 * 24))
+
+        return { total, days, hours, minutes, seconds }
+    }
+
+    function startTimer(endtime) {
+        const timer = document.getElementById("timer")
+
+        function updateClock() {
+            const t = getTimeRemaining(endtime)
+
+            if (t.total <= 0) {
+                clearInterval(timeinterval)
+                timer.innerHTML = "00:00:00:00"
+                return
+            }
+
+            timer.innerHTML =
+                ("0" + t.days).slice(-2) +
+                ":" +
+                ("0" + t.hours).slice(-2) +
+                ":" +
+                ("0" + t.minutes).slice(-2) +
+                ":" +
+                ("0" + t.seconds).slice(-2)
+        }
+
+        updateClock()
+        const timeinterval = setInterval(updateClock, 1000)
+    }
+
+    function createStars() {
+        const starsContainer = document.querySelector(".stars")
+        const starCount = 200
+
+        for (let i = 0; i < starCount; i++) {
+            const star = document.createElement("div")
+            star.classList.add("star")
+            star.style.width = `${Math.random() * 2}px`
+            star.style.height = star.style.width
+            star.style.left = `${Math.random() * 100}%`
+            star.style.top = `${Math.random() * 100}%`
+            star.style.animationDelay = `${Math.random() * 2}s`
+            starsContainer.appendChild(star)
+        }
+    }
+
+    window.onload = function () {
+        const targetDate = new Date("2024-09-21T18:31:11+00:00")
+        startTimer(targetDate)
+        createStars()
+    }
+</script>
 </body>
 </html>
