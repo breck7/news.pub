@@ -16,9 +16,3 @@ homepageParser
  extends abstractUrlMeasureParser
 gitsParser
  extends abstractUrlMeasureParser
-photoParser
- extends abstractStringMeasureParser
- javascript
-  compile() {
-    return `<img src="${this.content}" />`
-  }

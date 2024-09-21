@@ -5,5 +5,19 @@ buildHtml
 homeButton
 viewSourceButton
 openGraphImage og.gif
-css .abstractIconButtonParser {z-index: 5;}
+css
+ .abstractIconButtonParser {z-index: 5;}
+ .thumbnail {
+  width: 20px;  /* Adjust size as needed */
+  height: 20px;
+  border-radius: 50%;  /* This makes the image round */
+  object-fit: cover;  /* This ensures the image fills the circular area without distortion */
+  border: 1px solid #ffffff;  /* Optional: adds a white border */
+  box-shadow: 0 2px 4px rgba(0,0,0,0.1);  /* Optional: adds a subtle shadow */
+  transition: transform 0.2s ease;  /* Optional: for a hover effect */
+ }
+ .thumbnail:hover {
+  cursor: pointer;
+  transform: scale(1.1);  /* Optional: slightly enlarges the image on hover */
+ }
 bg.html
