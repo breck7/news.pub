@@ -11,10 +11,11 @@ table tries.csv
    rename user tries
     orderBy rank
      groupBy rank
-      reduce pitchLink any pitchLink
-      reduce pitch any pitch
+      reduce date first date
+      reduce pitchLink first pitchLink
+      reduce pitch first pitch
       reduce tries concat tries
-      select rank pitch pitchLink tries
+      select rank pitch pitchLink date tries
        printTable
 
 Download the Tries ScrollSet as: CSV | TSV | JSON
