@@ -10,7 +10,12 @@ table tries.csv
   select rank pitch pitchLink user date
    rename user tries
     orderBy rank
-     printTable
+     groupBy rank
+      reduce pitchLink any pitchLink
+      reduce pitch any pitch
+      reduce tries concat tries
+      select rank pitch pitchLink tries
+       printTable
 
 Download the Tries ScrollSet as: CSV | TSV | JSON
  link tries.csv CSV
