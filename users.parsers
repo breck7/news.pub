@@ -3,11 +3,22 @@ usernameParser
  extends abstractIdParser
  description What is your user name?
  atoms anyAtom
- example
-  username breck
-  email breck7@gmail.com
-  data https://breckyunits.com/news.pub
+ float sortIndex 1.1
+nameParser
+ extends abstractStringMeasureParser
+ float sortIndex 1.2
 emailParser
  extends abstractStringMeasureParser
-dataParser
+ float sortIndex 1.3
+twitterParser
  extends abstractUrlMeasureParser
+homepageParser
+ extends abstractUrlMeasureParser
+gitsParser
+ extends abstractUrlMeasureParser
+photoParser
+ extends abstractStringMeasureParser
+ javascript
+  compile() {
+    return `<img src="${this.content}" />`
+  }
