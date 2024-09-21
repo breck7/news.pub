@@ -53,7 +53,6 @@
         <div class="video-container">
             <iframe
                 id="theVideo"
-                src="https://www.loom.com/embed/0a1e86e9725c49c4945169e4da219a8a"
                 frameborder="0"
                 webkitallowfullscreen
                 mozallowfullscreen
@@ -71,6 +70,7 @@
 
     function closeModal() {
         document.getElementById("videoModal").style.display = "none"
+        document.getElementById("theVideo").src = ""
     }
 
     window.onclick = function (event) {
