@@ -29,6 +29,7 @@ class NewsCli extends ScrollSetCLI {
   }
 
   async downloadFileToDisk(url, destination) {
+    if (!url) return
     const { writeFile } = require("fs").promises
     const response = await fetch(url)
     const fileBuffer = await response.arrayBuffer()
