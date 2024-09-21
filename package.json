@@ -1,0 +1,24 @@
+{
+  "name": "news",
+  "version": "0.1.0",
+  "main": "build.js",
+  "scripts": {
+    "up": "npm install scroll-cli@latest;npm install scrollsdk@latest",
+    "build": "./cli.js build; scroll build",
+    "open": "open index.html",
+    "test": "scroll test"
+  },
+  "description": "New for builders",
+  "dependencies": {
+    "scroll-cli": "^133.0.0",
+    "scrollsdk": "^87.0.0"
+  },
+  "bin": {
+    "news": "./cli.js"
+  },
+  "homepage": "https://news.pub",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/breck7/news.pub.git"
+  }
+}

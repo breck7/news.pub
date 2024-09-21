@@ -4,3 +4,5 @@ feed.xml
 .DS_Store
 *.css
 *.js
+node_modules/
+package-lock.json

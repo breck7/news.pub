@@ -6,15 +6,17 @@ usernameParser
  example
   username breck
   email breck7@gmail.com
-  reactions https://breckyunits.com/news.pub
+  data https://breckyunits.com/news.pub
 emailParser
  extends abstractStringMeasureParser
 reactionsParser
  extends abstractStringMeasureParser
+dataParser
+ extends abstractUrlMeasureParser
 
 username breck
 email breck7@gmail.com
-reactions https://breckyunits.com/news.pub
+data https://breckyunits.com/news.pub
 
 username nm
 email hi@nmn.gl
