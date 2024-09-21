@@ -4,7 +4,7 @@
   "main": "build.js",
   "scripts": {
     "up": "npm install scroll-cli@latest;npm install scrollsdk@latest",
-    "build": "./cli.js build; scroll build",
+    "build": "scroll build; ./cli.js build; scroll build",
     "open": "open index.html",
     "test": "scroll test"
   },
