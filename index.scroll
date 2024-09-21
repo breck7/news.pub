@@ -8,7 +8,8 @@ header.scroll
 table tries.csv
  rename show showTitleLink
   select showTitle showTitleLink user date
-   printTable
+   rename user tries
+    printTable
 
 Download the Tries ScrollSet as: CSV | TSV | JSON
  link tries.csv CSV
