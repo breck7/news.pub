@@ -1,7 +1,6 @@
 importOnly
 
-Home | Users | Join | Try Requests
+Home | Users | Join
  link index.html Home
  link users.html Users
  https://github.com/breck7/news.pub/edit/main/users.scroll Join
- https://github.com/breck7/news.pub/labels/TryRequest Try Requests
