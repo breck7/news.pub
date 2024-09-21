@@ -1,0 +1,15 @@
+urlParser
+ extends abstractIdParserParser
+ float sortIndex 1.1
+
+tryParser
+ extends abstractUrlMeasureParser
+ float sortIndex 1.3
+
+dateParser
+ extends abstractStringMeasureParser
+ float sortIndex 1.4
+
+titleParser
+ extends abstractStringMeasureParser
+ float sortIndex 1.5
