@@ -1,0 +1,86 @@
+<style>
+    body,
+    html {
+        height: 100%;
+        margin: 0;
+        font-family: Arial, sans-serif;
+        overflow: hidden;
+    }
+    .background {
+        position: fixed;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        background: linear-gradient(to bottom, #1a2980 0%, #26d0ce 100%);
+    }
+    .stars {
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        pointer-events: none;
+    }
+    .star {
+        position: absolute;
+        background-color: #ffffff;
+        border-radius: 50%;
+        animation: twinkle 2s infinite ease-in-out;
+    }
+    @keyframes twinkle {
+        0%,
+        100% {
+            opacity: 0;
+        }
+        50% {
+            opacity: 1;
+        }
+    }
+    .container {
+        position: relative;
+        z-index: 1;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        height: 100%;
+        text-align: center;
+        color: white;
+    }
+    .container a{
+        color: white;
+        text-decoration-color: transparent;
+    }
+    .container a:hover{
+        text-decoration-color: white;
+    }
+    .container td {
+        text-align: left;
+    }
+</style>
+
+<div class="background"></div>
+<div class="stars"></div>
+
+<script>
+    function createStars() {
+        const starsContainer = document.querySelector(".stars")
+        const starCount = 200
+
+        for (let i = 0; i < starCount; i++) {
+            const star = document.createElement("div")
+            star.classList.add("star")
+            star.style.width = `${Math.random() * 2}px`
+            star.style.height = star.style.width
+            star.style.left = `${Math.random() * 100}%`
+            star.style.top = `${Math.random() * 100}%`
+            star.style.animationDelay = `${Math.random() * 2}s`
+            starsContainer.appendChild(star)
+        }
+    }
+
+    window.onload = function () {
+        createStars()
+    }
+</script>
