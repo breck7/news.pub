@@ -1,15 +1,23 @@
 urlParser
  extends abstractIdParserParser
  float sortIndex 1.1
+ required
 
 tryParser
  extends abstractUrlMeasureParser
  float sortIndex 1.3
+ required
 
 dateParser
  extends abstractStringMeasureParser
  float sortIndex 1.4
+ required
 
 titleParser
  extends abstractStringMeasureParser
  float sortIndex 1.5
+
+userParser
+ extends abstractStringMeasureParser
+ float sortIndex 1.5
+ required
