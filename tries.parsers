@@ -54,6 +54,6 @@ userParser
  required
  javascript
   get measureValue() {
-    return `<span onclick="openModal('${this.parent.get("try")}')">${this.content}</span>`
+    return `<span onclick="openModal('${this.parent.get("try")}')"><img class="thumbnail" src="photos/${this.content}.jpg" /></span>`
   }
 
