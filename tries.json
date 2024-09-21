@@ -1,79 +1,90 @@
 [
   {
+    "rank": 1,
     "show": "https://time-flies.koenvangilst.nl/",
     "try": "https://www.loom.com/embed/0a1e86e9725c49c4945169e4da219a8a?sid=22426841-de3f-47f5-86a1-fb537432a438",
     "date": "9/21/2024",
-    "showTitle": "Time Flies",
+    "pitch": "Time Flies",
     "user": "<span onclick=\"openModal('https://www.loom.com/embed/0a1e86e9725c49c4945169e4da219a8a?sid=22426841-de3f-47f5-86a1-fb537432a438')\">steph</span>"
   },
   {
+    "rank": 2,
     "show": "https://unswt.com/",
     "try": "https://www.loom.com/embed/28059cba3a1045d0bfb20651d53c2f18?sid=72530eaf-0bda-4665-acfa-7c48131c08c5",
     "date": "9/21/2024",
-    "showTitle": "Unswt – Free AI Sugar Tracker Using Meal Photos",
+    "pitch": "Unswt – Free AI Sugar Tracker Using Meal Photos",
     "user": "<span onclick=\"openModal('https://www.loom.com/embed/28059cba3a1045d0bfb20651d53c2f18?sid=72530eaf-0bda-4665-acfa-7c48131c08c5')\">steph</span>"
   },
   {
+    "rank": 3,
     "show": "https://jetup.io/exclusive/",
     "try": "https://www.loom.com/embed/379baab086cb445a9422d50cb36e05ee?sid=8cfb48fa-88d1-417e-8e48-c3e051788e5c",
     "date": "9/21/2024",
-    "showTitle": "Real Senior Dev from $4.9/HR",
+    "pitch": "Real Senior Dev from $4.9/HR",
     "user": "<span onclick=\"openModal('https://www.loom.com/embed/379baab086cb445a9422d50cb36e05ee?sid=8cfb48fa-88d1-417e-8e48-c3e051788e5c')\">steph</span>"
   },
   {
+    "rank": 4,
     "show": "https://nuenki.app/",
     "try": "https://www.loom.com/embed/e65c7323b3cd4f03a89ceb9f199c68b7?sid=5808f1f4-2ee4-49df-96cb-97b738f3053a",
     "date": "9/21/2024",
-    "showTitle": "Nuenki - Learn a language while you browse the web",
+    "pitch": "Nuenki - Learn a language while you browse the web",
     "user": "<span onclick=\"openModal('https://www.loom.com/embed/e65c7323b3cd4f03a89ceb9f199c68b7?sid=5808f1f4-2ee4-49df-96cb-97b738f3053a')\">steph</span>"
   },
   {
+    "rank": 5,
     "show": "https://ebookany.com/",
     "try": "https://www.loom.com/embed/8a62fe079f9948818156006468f800b3?sid=14f5d67c-37f6-4467-bc2b-8c73ce30ffff",
     "date": "9/21/2024",
-    "showTitle": "A tool to easily convert any web page into an eBook",
+    "pitch": "A tool to easily convert any web page into an eBook",
     "user": "<span onclick=\"openModal('https://www.loom.com/embed/8a62fe079f9948818156006468f800b3?sid=14f5d67c-37f6-4467-bc2b-8c73ce30ffff')\">steph</span>"
   },
   {
+    "rank": 6,
     "show": "https://youtubetranscriptoptimizer.com/",
     "try": "https://www.loom.com/embed/b863ae3195d54f8cbe1c9931c8d96b0e?sid=11529b69-02c3-46cf-ae8f-346bb0c19f6b",
     "date": "9/21/2024",
-    "showTitle": "YouTube Transcript Optimizer – Turn Videos into Polished Documents",
+    "pitch": "YouTube Transcript Optimizer – Turn Videos into Polished Documents",
     "user": "<span onclick=\"openModal('https://www.loom.com/embed/b863ae3195d54f8cbe1c9931c8d96b0e?sid=11529b69-02c3-46cf-ae8f-346bb0c19f6b')\">breck</span>"
   },
   {
+    "rank": 7,
     "show": "https://github.com/g-udi/gaudiBar.widget",
     "try": "https://www.loom.com/embed/e02ff9d493c3423c8f6a986711ca7c88?sid=f4c15a3a-404a-45bd-851e-5917d8f66bf9",
     "date": "9/21/2024",
-    "showTitle": "Craft Your Perfect Dev Environment",
+    "pitch": "Craft Your Perfect Dev Environment",
     "user": "<span onclick=\"openModal('https://www.loom.com/embed/e02ff9d493c3423c8f6a986711ca7c88?sid=f4c15a3a-404a-45bd-851e-5917d8f66bf9')\">breck</span>"
   },
   {
+    "rank": 8,
     "show": "https://www.gamesinprogress.com/",
     "try": "https://www.loom.com/embed/b6d3309dffe942c9bf5093b64323196d?sid=9148c264-4e0a-44f7-ba5f-0efcb00029d7",
     "date": "9/21/2024",
-    "showTitle": "GamesInProgress – Discover and follow indie game developers",
+    "pitch": "GamesInProgress – Discover and follow indie game developers",
     "user": "<span onclick=\"openModal('https://www.loom.com/embed/b6d3309dffe942c9bf5093b64323196d?sid=9148c264-4e0a-44f7-ba5f-0efcb00029d7')\">breck</span>"
   },
   {
+    "rank": 9,
     "show": "https://aimathgpt.forit.ai/",
     "try": "https://www.loom.com/embed/85e585a96bc44f5995bbca790191c7c0?sid=57ccade0-d54f-448c-8cb6-f1c735e7e099",
     "date": "9/21/2024",
-    "showTitle": "I made a O1 AI math that turns F's into A+'s overnight",
+    "pitch": "I made a O1 AI math that turns F's into A+'s overnight",
     "user": "<span onclick=\"openModal('https://www.loom.com/embed/85e585a96bc44f5995bbca790191c7c0?sid=57ccade0-d54f-448c-8cb6-f1c735e7e099')\">breck</span>"
   },
   {
+    "rank": 10,
     "show": "https://hn-pm.me/login",
     "try": "https://www.loom.com/embed/064bd4b9865845e9a055f7138dfc1a3d?sid=6bf557aa-f9ba-48bd-a213-8820dd523cc2",
     "date": "9/21/2024",
-    "showTitle": "Private Messages for Hacker News Users",
+    "pitch": "Private Messages for Hacker News Users",
     "user": "<span onclick=\"openModal('https://www.loom.com/embed/064bd4b9865845e9a055f7138dfc1a3d?sid=6bf557aa-f9ba-48bd-a213-8820dd523cc2')\">breck</span>"
   },
   {
+    "rank": 1,
     "show": "https://time-flies.koenvangilst.nl/",
     "try": "https://www.loom.com/embed/2d712cdacc91471d828d9f91ffbdb479?sid=7ea5c983-3d57-4522-ad5d-c89b2a7ca89f",
     "date": "9/21/2024",
-    "showTitle": "Time Flies",
+    "pitch": "Time Flies",
     "user": "<span onclick=\"openModal('https://www.loom.com/embed/2d712cdacc91471d828d9f91ffbdb479?sid=7ea5c983-3d57-4522-ad5d-c89b2a7ca89f')\">breck</span>"
   }
 ]
