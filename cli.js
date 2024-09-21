@@ -17,7 +17,7 @@ class NewsCli extends ScrollSetCLI {
 
   // fetch user data
   async fetchCommand() {
-    const users = require("./userjson")
+    const users = require("./users.json")
     await Promise.all(
       users.map(async (user) =>
         this.downloadFileToDisk(
