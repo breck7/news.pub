@@ -169,6 +169,88 @@
  </script>
 </div>
 <p class="scrollParagraph">Download the Tries ScrollSet as: <a href="tries.csv">CSV</a> | <a href="tries.tsv">TSV</a> | <a href="tries.json">JSON</a></p>
+<style>
+    .modal {
+        display: none;
+        position: fixed;
+        z-index: 2;
+        left: 0;
+        top: 0;
+        width: 100%;
+        height: 100%;
+        overflow: auto;
+        background-color: rgba(0, 0, 0, 0.8);
+    }
+    .modal-content {
+        background-color: #fefefe;
+        margin: 10% auto;
+        padding: 20px;
+        border: 1px solid #888;
+        width: 80%;
+        max-width: 700px;
+    }
+    .close {
+        color: #aaa;
+        float: right;
+        font-size: 28px;
+        font-weight: bold;
+        cursor: pointer;
+    }
+    .close:hover,
+    .close:focus {
+        color: #000;
+        text-decoration: none;
+        cursor: pointer;
+    }
+    .video-container {
+        position: relative;
+        padding-bottom: 56.25%;
+        padding-top: 30px;
+        height: 0;
+        overflow: hidden;
+    }
+    .video-container iframe {
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+    }
+</style>
+
+<div id="videoModal" class="modal">
+    <div class="modal-content">
+        <span class="close" onclick="closeModal()">&times;</span>
+        <div class="video-container">
+            <iframe
+                id="theVideo"
+                src="https://www.loom.com/embed/0a1e86e9725c49c4945169e4da219a8a"
+                frameborder="0"
+                webkitallowfullscreen
+                mozallowfullscreen
+                allowfullscreen
+            ></iframe>
+        </div>
+    </div>
+</div>
+
+<script>
+    function openModal(url) {
+        document.getElementById("theVideo").src = url
+        document.getElementById("videoModal").style.display = "block"
+    }
+
+    function closeModal() {
+        document.getElementById("videoModal").style.display = "none"
+    }
+
+    window.onclick = function (event) {
+        if (event.target == document.getElementById("videoModal")) {
+            closeModal()
+        }
+    }
+</script>
+
 <p class="scrollParagraph"><a href="index.html">Home</a> | <a href="users.html">Users</a> | <a href="https://github.com/breck7/news.pub/edit/main/users.scroll">Join</a></p>
 </div>
 <script defer src="jquery-3.7.1.min.js"></script>
