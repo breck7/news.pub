@@ -7,10 +7,10 @@ header.scroll
 # BuilderNews
 table
  delimiter |
- select rank title titleLink user reactions
+ select rank title titleLink tries
   printTable
  data
-  rank|user|titleLink|title|reactions
+  rank|user|titleLink|title|tries
   1|breck|https://lvvvx.com/posts/announcements/website-is-live|My Static Website|4
   2|breck|https://makepdfapi.com/|Turn Dynamic Data into Professional PDFs|2
   3|breck|https://handbook.directory/|A list of all 'public' company handbooks|3
@@ -21,5 +21,9 @@ table
   9|breck|https://github.com/ThinkThinkAI/ThinkDB|ThinkDB – SQL Client, Smart Queries, and Virtual DBA Support|3
   10|breck|https://github.com/scrumlens/scrumlens|Open-Source Agile Retrospective Tool for Real-Time Team Feedback|5
   11|breck|https://github.com/Hexastack/Hexabot|Open-Source Visual Chatbot Builder with RAG Support|2
+
+footer.scroll
+
 </div>
 tableSearch
+

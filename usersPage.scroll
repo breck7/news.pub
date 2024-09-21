@@ -14,4 +14,7 @@ mediumColumns 1
 table
  printTable
 tableSearch
+
+footer.scroll
+
 </div>
