@@ -4,7 +4,7 @@ buildTxt
 buildHtml
 homeButton
 viewSourceButton
-openGraphImage og.gif
+openGraphImage og.jpg
 css
  .abstractIconButtonParser {z-index: 5;}
  .thumbnail {
