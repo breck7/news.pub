@@ -7,14 +7,15 @@ header.scroll
 # BuilderNews
 table tries.csv
  rename show showTitleLink
-  rename try userLink
-   select showTitle showTitleLink user userLink date
-    printTable
+  select showTitle showTitleLink user date
+   printTable
 
 Download the Tries ScrollSet as: CSV | TSV | JSON
  link tries.csv CSV
  link tries.tsv TSV
  link tries.json JSON
+
+modal.html
 
 footer.scroll
 
