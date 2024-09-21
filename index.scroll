@@ -6,10 +6,11 @@ header.scroll
 <div class="container">
 # BuilderNews
 table tries.csv
- rename show showTitleLink
-  select showTitle showTitleLink user date
+ rename show pitchLink
+  select rank pitch pitchLink user date
    rename user tries
-    printTable
+    orderBy rank
+     printTable
 
 Download the Tries ScrollSet as: CSV | TSV | JSON
  link tries.csv CSV

@@ -11,6 +11,29 @@ tryParser
  description What is the URL to their user test video?
  required
 
+rankParser
+ extends abstractFloatMeasureParser
+ float sortIndex 1.05
+ description What is the current rank?
+ boolean isComputed true
+ javascript
+  computeValue(concept, name, parsedProgram) {
+    if (!Particle.ranks) {
+      Particle.ranks = {}
+      const urls = parsedProgram.topDownArray.filter(particle  => particle.firstAtom === "show").map(particle => particle.content)
+      urls.forEach(url => {
+        if (!Particle.ranks[url])
+         Particle.ranks[url] = {url, count: 0}
+        Particle.ranks[url].count++
+      })
+      const sortedRanks = Object.values(Particle.ranks).sort((a, b) => b.count - a.count);
+      sortedRanks.forEach((rank, index) => {
+        Particle.ranks[rank.url] = index + 1
+      })
+    }
+    return Particle.ranks[concept.get("show")]
+  }
+
 triesDateParser
  crux date
  extends abstractStringMeasureParser
@@ -19,7 +42,7 @@ triesDateParser
  required
 
 triesTitleParser
- crux showTitle
+ crux pitch
  extends abstractStringMeasureParser
  description What is the title of the url?
  float sortIndex 1.5
