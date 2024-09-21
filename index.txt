@@ -1,1 +1,24 @@
+BuilderNews
+===========
+showTitle,showTitleLink,tries,date
+Time Flies,https://time-flies.koenvangilst.nl/,"steph",9/21/2024
+Unswt – Free AI Sugar Tracker Using Meal Photos,https://unswt.com/,"steph",9/21/2024
+Real Senior Dev from $4.9/HR,https://jetup.io/exclusive/,"steph",9/21/2024
+Nuenki - Learn a language while you browse the web,https://nuenki.app/,"steph",9/21/2024
+A tool to easily convert any web page into an eBook,https://ebookany.com/,"steph",9/21/2024
+YouTube Transcript Optimizer – Turn Videos into Polished Documents,https://youtubetranscriptoptimizer.com/,"breck",9/21/2024
+Craft Your Perfect Dev Environment,https://github.com/g-udi/gaudiBar.widget,"breck",9/21/2024
+GamesInProgress – Discover and follow indie game developers,https://www.gamesinprogress.com/,"breck",9/21/2024
+I made a O1 AI math that turns F's into A+'s overnight,https://aimathgpt.forit.ai/,"breck",9/21/2024
+Private Messages for Hacker News Users,https://hn-pm.me/login,"breck",9/21/2024
+Time Flies,https://time-flies.koenvangilst.nl/,"breck",9/21/2024
 
+Download the Tries ScrollSet as: CSV | TSV | JSON
+ /tries.csv CSV
+ /tries.tsv TSV
+ /tries.json JSON
+
+Home | Users | Join
+ /index.html Home
+ /users.html Users
+ https://github.com/breck7/news.pub/edit/main/users.scroll Join

@@ -1,0 +1,36 @@
+showParser
+ crux show
+ extends abstractIdParser
+ description URL to the thing being tried?
+ float sortIndex 1.1
+ required
+
+tryParser
+ extends abstractUrlMeasureParser
+ float sortIndex 1.3
+ description What is the URL to their user test video?
+ required
+
+triesDateParser
+ crux date
+ extends abstractStringMeasureParser
+ float sortIndex 1.4
+ description When did they try?
+ required
+
+triesTitleParser
+ crux showTitle
+ extends abstractStringMeasureParser
+ description What is the title of the url?
+ float sortIndex 1.5
+
+userParser
+ extends abstractStringMeasureParser
+ description Username of the trier?
+ float sortIndex 1.5
+ required
+ javascript
+  get measureValue() {
+    return `<span onclick="openModal('${this.parent.get("try")}')">${this.content}</span>`
+  }
+

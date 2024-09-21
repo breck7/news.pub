@@ -1,0 +1,25 @@
+title BuilderNews
+viewSourceUrl https://github.com/breck7/news.pub
+description News for builders.
+header.scroll
+
+<div class="container">
+# BuilderNews
+table tries.csv
+ rename show showTitleLink
+  select showTitle showTitleLink user date
+   rename user tries
+    printTable
+
+Download the Tries ScrollSet as: CSV | TSV | JSON
+ link tries.csv CSV
+ link tries.tsv TSV
+ link tries.json JSON
+
+modal.html
+
+footer.scroll
+
+</div>
+tableSearch
+
