@@ -1,18 +1,4 @@
-usernameParser
- crux username
- extends abstractIdParser
- description What is your user name?
- atoms anyAtom
- example
-  username breck
-  email breck7@gmail.com
-  data https://breckyunits.com/news.pub
-emailParser
- extends abstractStringMeasureParser
-reactionsParser
- extends abstractStringMeasureParser
-dataParser
- extends abstractUrlMeasureParser
+users.parsers
 
 username breck
 email breck7@gmail.com

@@ -12,6 +12,9 @@ class NewsCli extends ScrollSetCLI {
   async buildCommand() {
     console.log("Done")
   }
+
+  // fetch user data
+  async fetchCommand() {}
 }
 
 module.exports = { NewsCli }

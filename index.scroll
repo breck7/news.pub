@@ -1,11 +1,7 @@
 title BuilderNews
 viewSourceUrl https://github.com/breck7/news.pub
-header.scroll
 description News for builders.
-
-bg.html
-
-// todo: add "how long ago". add reaction icons?
+header.scroll
 
 <div class="container">
 # BuilderNews
