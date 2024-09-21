@@ -1,16 +1,16 @@
 BuilderNews
 ===========
 rank,pitch,pitchLink,date,tries
-1,,,,
-2,,,,
-3,,,,
-4,,,,
-5,,,,
-6,,,,
-7,,,,
-8,,,,
-9,,,,
-10,,,,
+1,Time Flies,https://time-flies.koenvangilst.nl/,9/21/2024," "
+2,Unswt – Free AI Sugar Tracker Using Meal Photos,https://unswt.com/,9/21/2024,""
+3,Real Senior Dev from $4.9/HR,https://jetup.io/exclusive/,9/21/2024,""
+4,Nuenki - Learn a language while you browse the web,https://nuenki.app/,9/21/2024,""
+5,A tool to easily convert any web page into an eBook,https://ebookany.com/,9/21/2024,""
+6,YouTube Transcript Optimizer – Turn Videos into Polished Documents,https://youtubetranscriptoptimizer.com/,9/21/2024,""
+7,Craft Your Perfect Dev Environment,https://github.com/g-udi/gaudiBar.widget,9/21/2024,""
+8,GamesInProgress – Discover and follow indie game developers,https://www.gamesinprogress.com/,9/21/2024,""
+9,I made a O1 AI math that turns F's into A+'s overnight,https://aimathgpt.forit.ai/,9/21/2024,""
+10,Private Messages for Hacker News Users,https://hn-pm.me/login,9/21/2024,""
 
 Download the Tries ScrollSet as: CSV | TSV | JSON
  /tries.csv CSV
