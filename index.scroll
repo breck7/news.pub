@@ -6,10 +6,15 @@ header.scroll
 <div class="container">
 # BuilderNews
 table tries.csv
- rename show titleLink
+ rename show showTitleLink
   rename try userLink
-   select title titleLink user userLink date
+   select showTitle showTitleLink user userLink date
     printTable
+
+Download the Tries ScrollSet as: CSV | TSV | JSON
+ link tries.csv CSV
+ link tries.tsv TSV
+ link tries.json JSON
 
 footer.scroll
 

@@ -19,7 +19,7 @@ triesDateParser
  required
 
 triesTitleParser
- crux title
+ crux showTitle
  extends abstractStringMeasureParser
  description What is the title of the url?
  float sortIndex 1.5
