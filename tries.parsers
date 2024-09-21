@@ -1,5 +1,5 @@
-urlParser
- crux url
+showParser
+ crux show
  extends abstractIdParser
  description URL to the thing being tried?
  float sortIndex 1.1
@@ -12,7 +12,7 @@ tryParser
  required
 
 triesDateParser
- crux dux
+ crux date
  extends abstractStringMeasureParser
  float sortIndex 1.4
  description When did they try?
