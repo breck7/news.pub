@@ -1,5 +1,13 @@
 [
   {
+    "rank": 2,
+    "show": "https://laike9m.com/blog/no-one-builds-in-public,160/",
+    "try": "https://www.youtube.com/watch?v=10SIY3jEA6o",
+    "date": "9/22/2024",
+    "pitch": "It's probably time to rethink \"Building in public\"",
+    "user": "<span onclick=\"openModal('https://www.youtube.com/watch?v=10SIY3jEA6o')\"><img class=\"thumbnail\" src=\"photos/breck.jpg\" /></span>"
+  },
+  {
     "rank": 1,
     "show": "https://time-flies.koenvangilst.nl/",
     "try": "https://www.loom.com/embed/0a1e86e9725c49c4945169e4da219a8a?sid=22426841-de3f-47f5-86a1-fb537432a438",
@@ -8,7 +16,7 @@
     "user": "<span onclick=\"openModal('https://www.loom.com/embed/0a1e86e9725c49c4945169e4da219a8a?sid=22426841-de3f-47f5-86a1-fb537432a438')\"><img class=\"thumbnail\" src=\"photos/steph.jpg\" /></span>"
   },
   {
-    "rank": 2,
+    "rank": 3,
     "show": "https://unswt.com/",
     "try": "https://www.loom.com/embed/28059cba3a1045d0bfb20651d53c2f18?sid=72530eaf-0bda-4665-acfa-7c48131c08c5",
     "date": "9/21/2024",
@@ -16,7 +24,7 @@
     "user": "<span onclick=\"openModal('https://www.loom.com/embed/28059cba3a1045d0bfb20651d53c2f18?sid=72530eaf-0bda-4665-acfa-7c48131c08c5')\"><img class=\"thumbnail\" src=\"photos/steph.jpg\" /></span>"
   },
   {
-    "rank": 3,
+    "rank": 4,
     "show": "https://jetup.io/exclusive/",
     "try": "https://www.loom.com/embed/379baab086cb445a9422d50cb36e05ee?sid=8cfb48fa-88d1-417e-8e48-c3e051788e5c",
     "date": "9/21/2024",
@@ -24,7 +32,7 @@
     "user": "<span onclick=\"openModal('https://www.loom.com/embed/379baab086cb445a9422d50cb36e05ee?sid=8cfb48fa-88d1-417e-8e48-c3e051788e5c')\"><img class=\"thumbnail\" src=\"photos/steph.jpg\" /></span>"
   },
   {
-    "rank": 4,
+    "rank": 5,
     "show": "https://nuenki.app/",
     "try": "https://www.loom.com/embed/e65c7323b3cd4f03a89ceb9f199c68b7?sid=5808f1f4-2ee4-49df-96cb-97b738f3053a",
     "date": "9/21/2024",
@@ -32,7 +40,7 @@
     "user": "<span onclick=\"openModal('https://www.loom.com/embed/e65c7323b3cd4f03a89ceb9f199c68b7?sid=5808f1f4-2ee4-49df-96cb-97b738f3053a')\"><img class=\"thumbnail\" src=\"photos/steph.jpg\" /></span>"
   },
   {
-    "rank": 5,
+    "rank": 6,
     "show": "https://ebookany.com/",
     "try": "https://www.loom.com/embed/8a62fe079f9948818156006468f800b3?sid=14f5d67c-37f6-4467-bc2b-8c73ce30ffff",
     "date": "9/21/2024",
@@ -40,7 +48,7 @@
     "user": "<span onclick=\"openModal('https://www.loom.com/embed/8a62fe079f9948818156006468f800b3?sid=14f5d67c-37f6-4467-bc2b-8c73ce30ffff')\"><img class=\"thumbnail\" src=\"photos/steph.jpg\" /></span>"
   },
   {
-    "rank": 6,
+    "rank": 7,
     "show": "https://youtubetranscriptoptimizer.com/",
     "try": "https://www.loom.com/embed/b863ae3195d54f8cbe1c9931c8d96b0e?sid=11529b69-02c3-46cf-ae8f-346bb0c19f6b",
     "date": "9/21/2024",
@@ -48,7 +56,7 @@
     "user": "<span onclick=\"openModal('https://www.loom.com/embed/b863ae3195d54f8cbe1c9931c8d96b0e?sid=11529b69-02c3-46cf-ae8f-346bb0c19f6b')\"><img class=\"thumbnail\" src=\"photos/breck.jpg\" /></span>"
   },
   {
-    "rank": 7,
+    "rank": 8,
     "show": "https://github.com/g-udi/gaudiBar.widget",
     "try": "https://www.loom.com/embed/e02ff9d493c3423c8f6a986711ca7c88?sid=f4c15a3a-404a-45bd-851e-5917d8f66bf9",
     "date": "9/21/2024",
@@ -56,7 +64,7 @@
     "user": "<span onclick=\"openModal('https://www.loom.com/embed/e02ff9d493c3423c8f6a986711ca7c88?sid=f4c15a3a-404a-45bd-851e-5917d8f66bf9')\"><img class=\"thumbnail\" src=\"photos/breck.jpg\" /></span>"
   },
   {
-    "rank": 8,
+    "rank": 9,
     "show": "https://www.gamesinprogress.com/",
     "try": "https://www.loom.com/embed/b6d3309dffe942c9bf5093b64323196d?sid=9148c264-4e0a-44f7-ba5f-0efcb00029d7",
     "date": "9/21/2024",
@@ -64,7 +72,7 @@
     "user": "<span onclick=\"openModal('https://www.loom.com/embed/b6d3309dffe942c9bf5093b64323196d?sid=9148c264-4e0a-44f7-ba5f-0efcb00029d7')\"><img class=\"thumbnail\" src=\"photos/breck.jpg\" /></span>"
   },
   {
-    "rank": 9,
+    "rank": 10,
     "show": "https://aimathgpt.forit.ai/",
     "try": "https://www.loom.com/embed/85e585a96bc44f5995bbca790191c7c0?sid=57ccade0-d54f-448c-8cb6-f1c735e7e099",
     "date": "9/21/2024",
@@ -72,7 +80,7 @@
     "user": "<span onclick=\"openModal('https://www.loom.com/embed/85e585a96bc44f5995bbca790191c7c0?sid=57ccade0-d54f-448c-8cb6-f1c735e7e099')\"><img class=\"thumbnail\" src=\"photos/breck.jpg\" /></span>"
   },
   {
-    "rank": 10,
+    "rank": 11,
     "show": "https://hn-pm.me/login",
     "try": "https://www.loom.com/embed/064bd4b9865845e9a055f7138dfc1a3d?sid=6bf557aa-f9ba-48bd-a213-8820dd523cc2",
     "date": "9/21/2024",
