@@ -5,6 +5,7 @@ buildHtml
 homeButton
 viewSourceButton
 openGraphImage og.jpg
+favicon favicon.ico
 css
  .abstractIconButtonParser {z-index: 5;}
  .thumbnail {
