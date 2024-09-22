@@ -19,7 +19,8 @@ Download this data as JSON.
  /tries.json JSON
  https://github.com/breck7/news.pub/blob/main/tries.scroll this data
 
-Home | Users | Join
+Home | Users | Join | Add Try
  /index.html Home
  /users.html Users
  https://github.com/breck7/news.pub/edit/main/users.scroll Join
+ https://github.com/breck7/news.pub/edit/main/tries.scroll Add Try

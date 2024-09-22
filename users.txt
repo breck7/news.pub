@@ -8,7 +8,8 @@ steph,Stephanie Rania,slrania@gmail.com,https://x.com/ballotshaker,,
 nm,Namanyay Goel,hi@nmn.gl,,https://nmn.gl/,https://github.com/namanyayg
 hassam,Hassam Alhajaji,hassam.alhajaji@gmail.com,,,https://github.com/hassamalhajaji
 
-Home | Users | Join
+Home | Users | Join | Add Try
  /index.html Home
  /users.html Users
  https://github.com/breck7/news.pub/edit/main/users.scroll Join
+ https://github.com/breck7/news.pub/edit/main/tries.scroll Add Try
