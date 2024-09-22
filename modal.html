@@ -73,9 +73,22 @@
         document.getElementById("theVideo").src = ""
     }
 
-    window.onclick = function (event) {
+
+     // Event listener for closing modal when clicking outside
+    window.addEventListener('click', function(event) {
         if (event.target == document.getElementById("videoModal")) {
-            closeModal()
+            closeModal();
+        }
+    });
+
+      function checkUrlAndOpenModal() {
+        const urlParams = new URL(window.location.href).searchParams;
+        const theTry = urlParams.get('try');
+        if (theTry) {
+            openModal(theTry);
         }
     }
+
+    // Event listener for DOMContentLoaded
+    document.addEventListener('DOMContentLoaded', checkUrlAndOpenModal);
 </script>
