@@ -5,6 +5,8 @@ header.scroll
 
 <div class="container">
 # BuilderNews
+Build something new you want people to try? Email a short pitch and link to one of our users.
+ link users.html users
 table tries.csv
  rename show pitchLink
   select rank pitch pitchLink user date

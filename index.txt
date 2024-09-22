@@ -1,5 +1,7 @@
 BuilderNews
 ===========
+Build something new you want people to try? Email a short pitch and link to one of our users.
+ /users.html users
 rank,pitch,pitchLink,date,tries
 1,Time Flies,https://time-flies.koenvangilst.nl/,9/21/2024," "
 2,Unswt – Free AI Sugar Tracker Using Meal Photos,https://unswt.com/,9/21/2024,""
