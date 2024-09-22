@@ -20,10 +20,9 @@ table tries.csv
       select rank pitch pitchLink date tries
        printTable
 
-Download the Tries ScrollSet as: CSV | TSV | JSON
- link tries.csv CSV
- link tries.tsv TSV
+Download the Tries ScrollSet as JSON.
  link tries.json JSON
+ https://breckyunits.com/scrollsets.html ScrollSet
 
 modal.html
 

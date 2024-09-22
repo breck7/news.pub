@@ -15,10 +15,9 @@ rank,pitch,pitchLink,date,tries
 10,I made a O1 AI math that turns F's into A+'s overnight,https://aimathgpt.forit.ai/,9/21/2024,""
 11,Private Messages for Hacker News Users,https://hn-pm.me/login,9/21/2024,""
 
-Download the Tries ScrollSet as: CSV | TSV | JSON
- /tries.csv CSV
- /tries.tsv TSV
+Download the Tries ScrollSet as JSON.
  /tries.json JSON
+ https://breckyunits.com/scrollsets.html ScrollSet
 
 Home | Users | Join
  /index.html Home
