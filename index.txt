@@ -3,13 +3,13 @@ BuilderNews
 Build something new you want people to try? Email a short pitch and link to one of our users.
  /users.html users
 rank,pitch,pitchLink,date,tries
-1,Dirt Cheap Gold – Find the cheapest gold prices,https://www.dirtcheapgold.com/,9/22/2024," "
-2,Unswt – Free AI Sugar Tracker Using Meal Photos,https://unswt.com/,9/22/2024," "
-3,Time Flies,https://time-flies.koenvangilst.nl/,9/21/2024," "
-4,"If AI is helping people code better, why aren't products getting better?",https://x.com/staysaasy/status/1837812645946126560,9/22/2024,""
-5,A tool to analyze Hacker News sentiment on any term in seconds ,https://classysoftware.io/chat-analysis/,9/22/2024,""
-6,"It's probably time to rethink ""Building in public""","https://laike9m.com/blog/no-one-builds-in-public,160/",9/22/2024,""
-7,Real Senior Dev from $4.9/HR,https://jetup.io/exclusive/,9/21/2024,""
+1,Real Senior Dev from $4.9/HR,https://jetup.io/exclusive/,9/22/2024," "
+2,Dirt Cheap Gold – Find the cheapest gold prices,https://www.dirtcheapgold.com/,9/22/2024," "
+3,Unswt – Free AI Sugar Tracker Using Meal Photos,https://unswt.com/,9/22/2024," "
+4,Time Flies,https://time-flies.koenvangilst.nl/,9/21/2024," "
+5,"If AI is helping people code better, why aren't products getting better?",https://x.com/staysaasy/status/1837812645946126560,9/22/2024,""
+6,A tool to analyze Hacker News sentiment on any term in seconds ,https://classysoftware.io/chat-analysis/,9/22/2024,""
+7,"It's probably time to rethink ""Building in public""","https://laike9m.com/blog/no-one-builds-in-public,160/",9/22/2024,""
 8,Nuenki - Learn a language while you browse the web,https://nuenki.app/,9/21/2024,""
 9,A tool to easily convert any web page into an eBook,https://ebookany.com/,9/21/2024,""
 10,YouTube Transcript Optimizer – Turn Videos into Polished Documents,https://youtubetranscriptoptimizer.com/,9/21/2024,""
