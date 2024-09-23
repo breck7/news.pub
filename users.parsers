@@ -16,3 +16,8 @@ homepageParser
  extends abstractUrlMeasureParser
 gitsParser
  extends abstractUrlMeasureParser
+instagramParser
+ extends abstractUrlMeasureParser
+newsYoutubeParser
+ crux youtube
+ extends abstractUrlMeasureParser
