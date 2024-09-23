@@ -2,10 +2,10 @@
   {
     "rank": 7,
     "url": "https://obsess.life/",
-    "try": "https://www.youtube.com/watch?v=Kd0_GsU0hV0",
+    "try": "https://www.youtube.com/embed/Kd0_GsU0hV0?si=BiPyGvOaEpioejr9",
     "date": "9/23/2024",
     "creation": "GitHub-style heatmap for habit tracking",
-    "user": "<a onclick=\"openModal('https://www.youtube.com/watch?v=Kd0_GsU0hV0'); return false;\" href=\"https://www.youtube.com/watch?v=Kd0_GsU0hV0\"><img class=\"thumbnail\" src=\"photos/breck.jpg\" /></a>"
+    "user": "<a onclick=\"openModal('https://www.youtube.com/embed/Kd0_GsU0hV0?si=BiPyGvOaEpioejr9'); return false;\" href=\"https://www.youtube.com/embed/Kd0_GsU0hV0?si=BiPyGvOaEpioejr9\"><img class=\"thumbnail\" src=\"photos/breck.jpg\" /></a>"
   },
   {
     "rank": 8,
