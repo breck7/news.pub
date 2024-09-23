@@ -2,6 +2,12 @@ buildConcepts tries.csv tries.json tries.tsv
 
 tries.parsers
 
+url https://www.rapidreview.cc/
+creation I made a small platform to collect feedback
+try https://www.youtube.com/embed/AvdWTwrfysU?si=3ebqups1uRMcg5Fp
+date 9/23/2024
+user breck
+
 url https://ebookany.com/
 creation A tool to easily convert any web page into an eBook
 try https://www.youtube.com/embed/u2_r_44bg5c?si=5wBkAog7YyJ2nfAI
