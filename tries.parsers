@@ -1,14 +1,13 @@
-showParser
- crux show
+urlParser
  extends abstractIdParser
- description URL to the thing being tried?
+ description URL to the creation being tried?
  float sortIndex 1.1
  required
 
 tryParser
  extends abstractUrlMeasureParser
  float sortIndex 1.3
- description What is the URL to their user test video?
+ description URL to the user test video?
  required
 
 rankParser
@@ -20,7 +19,7 @@ rankParser
   computeValue(concept, name, parsedProgram) {
     if (!Particle.ranks) {
       Particle.ranks = {}
-      const urls = parsedProgram.topDownArray.filter(particle  => particle.firstAtom === "show").map(particle => particle.content)
+      const urls = parsedProgram.topDownArray.filter(particle  => particle.firstAtom === "url").map(particle => particle.content)
       urls.forEach(url => {
         if (!Particle.ranks[url])
          Particle.ranks[url] = {url, count: 0}
@@ -31,7 +30,7 @@ rankParser
         Particle.ranks[rank.url] = index + 1
       })
     }
-    return Particle.ranks[concept.get("show")]
+    return Particle.ranks[concept.get("url")]
   }
 
 triesDateParser
@@ -41,10 +40,9 @@ triesDateParser
  description When did they try?
  required
 
-triesTitleParser
- crux pitch
+creationParser
  extends abstractStringMeasureParser
- description What is the title of the url?
+ description What is the title of the creation?
  float sortIndex 1.5
 
 userParser

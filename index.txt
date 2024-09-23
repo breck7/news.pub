@@ -2,9 +2,7 @@ BuilderNews
 ===========
 Watch people try your web creations for the first time.
 =======================================================
-Build something new you want people to try? Email a short pitch and link to one of our users.
- /users.html users
-rank,pitch,pitchLink,date,tries
+rank,creation,creationLink,date,tries
 1,A tool to easily convert any web page into an eBook,https://ebookany.com/,9/22/2024," "
 2,Nuenki - Learn a language while you browse the web,https://nuenki.app/,9/22/2024," "
 3,Real Senior Dev from $4.9/HR,https://jetup.io/exclusive/,9/22/2024," "
@@ -19,6 +17,9 @@ rank,pitch,pitchLink,date,tries
 12,GamesInProgress – Discover and follow indie game developers,https://www.gamesinprogress.com/,9/21/2024,""
 13,I made a O1 AI math that turns F's into A+'s overnight,https://aimathgpt.forit.ai/,9/21/2024,""
 14,Private Messages for Hacker News Users,https://hn-pm.me/login,9/21/2024,""
+
+Build something new to try? Email a short creation and link to one of our users.
+ /users.html users
 
 Download this data as JSON.
  /tries.json JSON
