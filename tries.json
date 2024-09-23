@@ -1,6 +1,14 @@
 [
   {
     "rank": 1,
+    "show": "https://ebookany.com/",
+    "try": "https://www.youtube.com/embed/u2_r_44bg5c?si=5wBkAog7YyJ2nfAI",
+    "date": "9/22/2024",
+    "pitch": "A tool to easily convert any web page into an eBook",
+    "user": "<a onclick=\"openModal('https://www.youtube.com/embed/u2_r_44bg5c?si=5wBkAog7YyJ2nfAI'); return false;\" href=\"https://www.youtube.com/embed/u2_r_44bg5c?si=5wBkAog7YyJ2nfAI\"><img class=\"thumbnail\" src=\"photos/breck.jpg\" /></a>"
+  },
+  {
+    "rank": 2,
     "show": "https://nuenki.app/",
     "try": "https://www.loom.com/embed/ff5edd3d420a47aebbd2f1d1b0347405?sid=bfd01d37-08dd-4207-86b0-3fb702fbf4c7",
     "date": "9/22/2024",
@@ -8,7 +16,7 @@
     "user": "<a onclick=\"openModal('https://www.loom.com/embed/ff5edd3d420a47aebbd2f1d1b0347405?sid=bfd01d37-08dd-4207-86b0-3fb702fbf4c7'); return false;\" href=\"https://www.loom.com/embed/ff5edd3d420a47aebbd2f1d1b0347405?sid=bfd01d37-08dd-4207-86b0-3fb702fbf4c7\"><img class=\"thumbnail\" src=\"photos/breck.jpg\" /></a>"
   },
   {
-    "rank": 2,
+    "rank": 3,
     "show": "https://jetup.io/exclusive/",
     "try": "https://www.youtube.com/embed/sKDvgvb7jC8?si=t7zQfsOLf2AU0RFs",
     "date": "9/22/2024",
@@ -16,7 +24,7 @@
     "user": "<a onclick=\"openModal('https://www.youtube.com/embed/sKDvgvb7jC8?si=t7zQfsOLf2AU0RFs'); return false;\" href=\"https://www.youtube.com/embed/sKDvgvb7jC8?si=t7zQfsOLf2AU0RFs\"><img class=\"thumbnail\" src=\"photos/breck.jpg\" /></a>"
   },
   {
-    "rank": 3,
+    "rank": 4,
     "show": "https://www.dirtcheapgold.com/",
     "try": "https://www.loom.com/embed/650a5709c41b4a1a878f49e22eecb4c8?sid=94a44829-bb12-4a47-9d16-a9bfdce16eb0",
     "date": "9/22/2024",
@@ -24,7 +32,7 @@
     "user": "<a onclick=\"openModal('https://www.loom.com/embed/650a5709c41b4a1a878f49e22eecb4c8?sid=94a44829-bb12-4a47-9d16-a9bfdce16eb0'); return false;\" href=\"https://www.loom.com/embed/650a5709c41b4a1a878f49e22eecb4c8?sid=94a44829-bb12-4a47-9d16-a9bfdce16eb0\"><img class=\"thumbnail\" src=\"photos/steph.jpg\" /></a>"
   },
   {
-    "rank": 4,
+    "rank": 5,
     "show": "https://unswt.com/",
     "try": "https://www.youtube.com/embed/XKD4U-OVpU0?si=jBXuguN5qr-zDq5o",
     "date": "9/22/2024",
@@ -32,7 +40,7 @@
     "user": "<a onclick=\"openModal('https://www.youtube.com/embed/XKD4U-OVpU0?si=jBXuguN5qr-zDq5o'); return false;\" href=\"https://www.youtube.com/embed/XKD4U-OVpU0?si=jBXuguN5qr-zDq5o\"><img class=\"thumbnail\" src=\"photos/breck.jpg\" /></a>"
   },
   {
-    "rank": 6,
+    "rank": 7,
     "show": "https://x.com/staysaasy/status/1837812645946126560",
     "try": "https://www.youtube.com/embed/KhDvFNefvuU?si=xWWtKewSZe3V1j7i",
     "date": "9/22/2024",
@@ -40,7 +48,7 @@
     "user": "<a onclick=\"openModal('https://www.youtube.com/embed/KhDvFNefvuU?si=xWWtKewSZe3V1j7i'); return false;\" href=\"https://www.youtube.com/embed/KhDvFNefvuU?si=xWWtKewSZe3V1j7i\"><img class=\"thumbnail\" src=\"photos/breck.jpg\" /></a>"
   },
   {
-    "rank": 7,
+    "rank": 8,
     "show": "https://classysoftware.io/chat-analysis/",
     "try": "https://www.youtube.com/embed/2eac5XZesgA?si=NDql-yhNEJIH6ykb",
     "date": "9/22/2024",
@@ -48,7 +56,7 @@
     "user": "<a onclick=\"openModal('https://www.youtube.com/embed/2eac5XZesgA?si=NDql-yhNEJIH6ykb'); return false;\" href=\"https://www.youtube.com/embed/2eac5XZesgA?si=NDql-yhNEJIH6ykb\"><img class=\"thumbnail\" src=\"photos/breck.jpg\" /></a>"
   },
   {
-    "rank": 3,
+    "rank": 4,
     "show": "https://www.dirtcheapgold.com/",
     "try": "https://www.youtube.com/embed/thCLXuZvinM?si=PVXWAEHKcl3uRRtl",
     "date": "9/22/2024",
@@ -56,7 +64,7 @@
     "user": "<a onclick=\"openModal('https://www.youtube.com/embed/thCLXuZvinM?si=PVXWAEHKcl3uRRtl'); return false;\" href=\"https://www.youtube.com/embed/thCLXuZvinM?si=PVXWAEHKcl3uRRtl\"><img class=\"thumbnail\" src=\"photos/breck.jpg\" /></a>"
   },
   {
-    "rank": 8,
+    "rank": 9,
     "show": "https://laike9m.com/blog/no-one-builds-in-public,160/",
     "try": "https://www.youtube.com/embed/10SIY3jEA6o?si=-6WwfJddlYvvy9Qk",
     "date": "9/22/2024",
@@ -64,7 +72,7 @@
     "user": "<a onclick=\"openModal('https://www.youtube.com/embed/10SIY3jEA6o?si=-6WwfJddlYvvy9Qk'); return false;\" href=\"https://www.youtube.com/embed/10SIY3jEA6o?si=-6WwfJddlYvvy9Qk\"><img class=\"thumbnail\" src=\"photos/breck.jpg\" /></a>"
   },
   {
-    "rank": 5,
+    "rank": 6,
     "show": "https://time-flies.koenvangilst.nl/",
     "try": "https://www.loom.com/embed/0a1e86e9725c49c4945169e4da219a8a?sid=22426841-de3f-47f5-86a1-fb537432a438",
     "date": "9/21/2024",
@@ -72,7 +80,7 @@
     "user": "<a onclick=\"openModal('https://www.loom.com/embed/0a1e86e9725c49c4945169e4da219a8a?sid=22426841-de3f-47f5-86a1-fb537432a438'); return false;\" href=\"https://www.loom.com/embed/0a1e86e9725c49c4945169e4da219a8a?sid=22426841-de3f-47f5-86a1-fb537432a438\"><img class=\"thumbnail\" src=\"photos/steph.jpg\" /></a>"
   },
   {
-    "rank": 4,
+    "rank": 5,
     "show": "https://unswt.com/",
     "try": "https://www.loom.com/embed/28059cba3a1045d0bfb20651d53c2f18?sid=72530eaf-0bda-4665-acfa-7c48131c08c5",
     "date": "9/21/2024",
@@ -80,7 +88,7 @@
     "user": "<a onclick=\"openModal('https://www.loom.com/embed/28059cba3a1045d0bfb20651d53c2f18?sid=72530eaf-0bda-4665-acfa-7c48131c08c5'); return false;\" href=\"https://www.loom.com/embed/28059cba3a1045d0bfb20651d53c2f18?sid=72530eaf-0bda-4665-acfa-7c48131c08c5\"><img class=\"thumbnail\" src=\"photos/steph.jpg\" /></a>"
   },
   {
-    "rank": 2,
+    "rank": 3,
     "show": "https://jetup.io/exclusive/",
     "try": "https://www.loom.com/embed/379baab086cb445a9422d50cb36e05ee?sid=8cfb48fa-88d1-417e-8e48-c3e051788e5c",
     "date": "9/21/2024",
@@ -88,7 +96,7 @@
     "user": "<a onclick=\"openModal('https://www.loom.com/embed/379baab086cb445a9422d50cb36e05ee?sid=8cfb48fa-88d1-417e-8e48-c3e051788e5c'); return false;\" href=\"https://www.loom.com/embed/379baab086cb445a9422d50cb36e05ee?sid=8cfb48fa-88d1-417e-8e48-c3e051788e5c\"><img class=\"thumbnail\" src=\"photos/steph.jpg\" /></a>"
   },
   {
-    "rank": 1,
+    "rank": 2,
     "show": "https://nuenki.app/",
     "try": "https://www.loom.com/embed/e65c7323b3cd4f03a89ceb9f199c68b7?sid=5808f1f4-2ee4-49df-96cb-97b738f3053a",
     "date": "9/21/2024",
@@ -96,7 +104,7 @@
     "user": "<a onclick=\"openModal('https://www.loom.com/embed/e65c7323b3cd4f03a89ceb9f199c68b7?sid=5808f1f4-2ee4-49df-96cb-97b738f3053a'); return false;\" href=\"https://www.loom.com/embed/e65c7323b3cd4f03a89ceb9f199c68b7?sid=5808f1f4-2ee4-49df-96cb-97b738f3053a\"><img class=\"thumbnail\" src=\"photos/steph.jpg\" /></a>"
   },
   {
-    "rank": 9,
+    "rank": 1,
     "show": "https://ebookany.com/",
     "try": "https://www.loom.com/embed/8a62fe079f9948818156006468f800b3?sid=14f5d67c-37f6-4467-bc2b-8c73ce30ffff",
     "date": "9/21/2024",
@@ -144,7 +152,7 @@
     "user": "<a onclick=\"openModal('https://www.loom.com/embed/064bd4b9865845e9a055f7138dfc1a3d?sid=6bf557aa-f9ba-48bd-a213-8820dd523cc2'); return false;\" href=\"https://www.loom.com/embed/064bd4b9865845e9a055f7138dfc1a3d?sid=6bf557aa-f9ba-48bd-a213-8820dd523cc2\"><img class=\"thumbnail\" src=\"photos/breck.jpg\" /></a>"
   },
   {
-    "rank": 5,
+    "rank": 6,
     "show": "https://time-flies.koenvangilst.nl/",
     "try": "https://www.loom.com/embed/2d712cdacc91471d828d9f91ffbdb479?sid=7ea5c983-3d57-4522-ad5d-c89b2a7ca89f",
     "date": "9/21/2024",

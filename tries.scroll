@@ -2,6 +2,12 @@ buildConcepts tries.csv tries.json tries.tsv
 
 tries.parsers
 
+show https://ebookany.com/
+pitch A tool to easily convert any web page into an eBook
+try https://www.youtube.com/embed/u2_r_44bg5c?si=5wBkAog7YyJ2nfAI
+date 9/22/2024
+user breck
+
 show https://nuenki.app/
 pitch Nuenki - Learn a language while you browse the web
 try https://www.loom.com/embed/ff5edd3d420a47aebbd2f1d1b0347405?sid=bfd01d37-08dd-4207-86b0-3fb702fbf4c7
