@@ -1,5 +1,7 @@
 BuilderNews
 ===========
+Watch people try your web creations for the first time.
+=======================================================
 Build something new you want people to try? Email a short pitch and link to one of our users.
  /users.html users
 rank,pitch,pitchLink,date,tries
