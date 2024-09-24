@@ -22,7 +22,7 @@ rank,creation,creationLink,date,tries
 17,I made a O1 AI math that turns F's into A+'s overnight,https://aimathgpt.forit.ai/,9/21/2024,""
 18,Private Messages for Hacker News Users,https://hn-pm.me/login,9/21/2024,""
 
-Build something new to try? Email a short creation and link to one of our users.
+Build something new to try? Email a title and link to one of our users.
  /users.html users
 
 Download this data as JSON.
