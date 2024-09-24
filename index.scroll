@@ -19,7 +19,7 @@ table tries.csv
       select rank creation creationLink date tries
        printTable
 
-Build something new to try? Email a short creation and link to one of our users.
+Build something new to try? Email a title and link to one of our users.
  link users.html users
 
 Download this data as JSON.
