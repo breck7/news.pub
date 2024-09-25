@@ -45,8 +45,23 @@
         width: 100%;
         height: 100%;
     }
+    .buy-me-coffee {
+        text-align: center;
+        margin-top: 20px;
+    }
+    .buy-me-coffee a {
+        display: inline-block;
+        padding: 10px 20px;
+        background-color: #ffdd00;
+        color: #000000;
+        text-decoration: none;
+        border-radius: 5px;
+        font-weight: bold;
+    }
+    .buy-me-coffee a:hover {
+        background-color: #ffea00;
+    }
 </style>
-
 <div id="videoModal" class="modal">
     <div class="modal-content">
         <span class="close" onclick="closeModal()">&times;</span>
@@ -59,36 +74,41 @@
                 allowfullscreen
             ></iframe>
         </div>
+        <div id="buyMeACoffee" class="buy-me-coffee">
+            <a href="https://www.buymeacoffee.com/breck7a" target="_blank"
+                >Buy Me a Coffee</a
+            >
+        </div>
     </div>
 </div>
-
 <script>
-    function openModal(url) {
+    function openModal(url, username) {
         document.getElementById("theVideo").src = url
         document.getElementById("videoModal").style.display = "block"
-    }
 
+
+        if (username === "breck") // todo: generalize
+          document.getElementById("buyMeACoffee").style.display = "block"
+        else
+            document.getElementById("buyMeACoffee").style.display = "none"
+    }
     function closeModal() {
         document.getElementById("videoModal").style.display = "none"
         document.getElementById("theVideo").src = ""
     }
-
-
-     // Event listener for closing modal when clicking outside
-    window.addEventListener('click', function(event) {
+    // Event listener for closing modal when clicking outside
+    window.addEventListener("click", function (event) {
         if (event.target == document.getElementById("videoModal")) {
-            closeModal();
+            closeModal()
         }
-    });
-
-      function checkUrlAndOpenModal() {
-        const urlParams = new URL(window.location.href).searchParams;
-        const theTry = urlParams.get('try');
+    })
+    function checkUrlAndOpenModal() {
+        const urlParams = new URL(window.location.href).searchParams
+        const theTry = urlParams.get("try")
         if (theTry) {
-            openModal(theTry);
+            openModal(theTry)
         }
     }
-
     // Event listener for DOMContentLoaded
-    document.addEventListener('DOMContentLoaded', checkUrlAndOpenModal);
+    document.addEventListener("DOMContentLoaded", checkUrlAndOpenModal)
 </script>
