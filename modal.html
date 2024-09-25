@@ -82,13 +82,17 @@
     </div>
 </div>
 <script>
+    const getBuyMeACoffee = username => window.users.find(user => user.username === username)?.buymeacoffee || null;
     function openModal(url, username) {
         document.getElementById("theVideo").src = url
         document.getElementById("videoModal").style.display = "block"
 
 
-        if (username === "breck") // todo: generalize
+        const buymeacoffee = getBuyMeACoffee(username)
+        if (buymeacoffee) {
           document.getElementById("buyMeACoffee").style.display = "block"
+          document.getElementById("buyMeACoffee").href = buymeacoffee
+        }
         else
             document.getElementById("buyMeACoffee").style.display = "none"
     }
