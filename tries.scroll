@@ -4,6 +4,12 @@ tries.parsers
 
 // New tries go up top
 
+url https://github.com/torrentg/expr
+creation An expression parser supporting multiple types
+try https://www.youtube.com/embed/DS5MXJSGgHM?si=s0CMTFVwWg7oGuAm
+date 9/24/2024
+user breck
+
 url https://json4u.com
 creation JSON For You – Visualize JSON in graph or table views
 try https://www.youtube.com/embed/ERpyG_f2gJE?si=ItqT1mPweRQZJ75h
