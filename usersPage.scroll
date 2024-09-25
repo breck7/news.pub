@@ -9,7 +9,8 @@ header.scroll
 <div class="container">
 # BuilderNews Users
 table
- printTable
+ links email twitter buymeacoffee homepage gits instagram youtube
+  printTable
 tableSearch
 
 footer.scroll

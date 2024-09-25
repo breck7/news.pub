@@ -10,7 +10,7 @@
   },
   "description": "New for builders",
   "dependencies": {
-    "scroll-cli": "^133.5.0",
+    "scroll-cli": "^133.6.0",
     "scrollsdk": "^87.0.0"
   },
   "bin": {
