@@ -82,12 +82,13 @@
     </div>
 </div>
 <script>
+    const getUsername = tryUrl => window.tries.find(item => item.try === tryUrl)?.user;
     const getBuyMeACoffee = username => window.users.find(user => user.username === username)?.buymeacoffee || null;
-    function openModal(url, username) {
+    function openModal(url) {
         document.getElementById("theVideo").src = url
         document.getElementById("videoModal").style.display = "block"
 
-
+        const username = getUsername(url)
         const buymeacoffee = getBuyMeACoffee(username)
         if (buymeacoffee) {
           document.getElementById("buyMeACoffee").style.display = "block"
