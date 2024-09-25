@@ -4,6 +4,12 @@ tries.parsers
 
 // New tries go up top
 
+url https://clipchamp.com/
+creation Clip Champ
+try https://www.youtube.com/embed/kx5WoMB1xXI?si=4HKIEIPzO0lubr1V
+date 9/24/2024
+user breck
+
 url https://github.com/torrentg/expr
 creation An expression parser supporting multiple types
 try https://www.youtube.com/embed/DS5MXJSGgHM?si=s0CMTFVwWg7oGuAm
