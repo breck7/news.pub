@@ -21,3 +21,5 @@ instagramParser
 newsYoutubeParser
  crux youtube
  extends abstractUrlMeasureParser
+buymeacoffeeParser
+ extends abstractUrlMeasureParser
