@@ -53,6 +53,7 @@ userParser
  javascript
   get measureValue() {
     const url = this.parent.get("try")
-    return `<a onclick="openModal('${url}'); return false;" href="${url}"><img class="thumbnail" src="photos/${this.content}.jpg" /></a>`
+    const username = this.content
+    return `<a onclick="openModal('${url}', '${username}'); return false;" href="${url}"><img class="thumbnail" src="photos/${username}.jpg" /></a>`
   }
 

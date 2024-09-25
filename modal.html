@@ -74,7 +74,7 @@
                 allowfullscreen
             ></iframe>
         </div>
-        <div class="buy-me-coffee">
+        <div id="buyMeACoffee" class="buy-me-coffee">
             <a href="https://www.buymeacoffee.com/breck7a" target="_blank"
                 >Buy Me a Coffee</a
             >
@@ -82,9 +82,15 @@
     </div>
 </div>
 <script>
-    function openModal(url) {
+    function openModal(url, username) {
         document.getElementById("theVideo").src = url
         document.getElementById("videoModal").style.display = "block"
+
+
+        if (username === "breck") // todo: generalize
+          document.getElementById("buyMeACoffee").style.display = "block"
+        else
+            document.getElementById("buyMeACoffee").style.display = "none"
     }
     function closeModal() {
         document.getElementById("videoModal").style.display = "none"
