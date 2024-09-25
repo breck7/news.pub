@@ -50,10 +50,4 @@ userParser
  description Username of the trier?
  float sortIndex 1.5
  required
- javascript
-  get measureValue() {
-    const url = this.parent.get("try")
-    const username = this.content
-    return `<a onclick="openModal('${url}', '${username}'); return false;" href="${url}"><img class="thumbnail" src="photos/${username}.jpg" /></a>`
-  }
 

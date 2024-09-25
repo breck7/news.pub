@@ -10,17 +10,18 @@ users.json
 # BuilderNews
 ### Watch people try your web creations for the first time.
 table tries.csv
- rename url creationLink
-  select rank creation creationLink user date
-   rename user tries
-    orderBy rank
-     groupBy rank
-      reduce date first date
-      reduce creationLink first creationLink
-      reduce creation first creation
-      reduce tries concat tries
-      select rank creation creationLink date tries
-       printTable
+ compose userPhotoLink <a onclick="openModal('{try}'); return false;" href="{try}"><img class="thumbnail" src="photos/{user}.jpg" /></a>
+  rename url creationLink
+   select rank creation creationLink userPhotoLink date
+    rename userPhotoLink tries
+     orderBy rank
+      groupBy rank
+       reduce date first date
+       reduce creationLink first creationLink
+       reduce creation first creation
+       reduce tries concat tries
+       select rank creation creationLink date tries
+        printTable
 
 Build something new to try? Email a title and link to one of our users.
  link users.html users
