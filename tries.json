@@ -1,6 +1,14 @@
 [
   {
     "rank": 7,
+    "url": "https://www.synnaxlabs.com/",
+    "try": "https://www.loom.com/embed/b4e86574742a4882b18113143c942bae?sid=c9f91ea1-e125-4c37-aeae-2e56adfff1a0",
+    "date": "9/26/2024",
+    "creation": "Synnax Labs",
+    "user": "breck"
+  },
+  {
+    "rank": 8,
     "url": "https://launchgrid.blitlabs.com/",
     "try": "https://www.loom.com/embed/60dd990025564138b206a13f80441e7f?sid=f4f03bce-05e9-4bdf-a84c-1c2bb3ed5442",
     "date": "9/25/2024",
@@ -8,7 +16,7 @@
     "user": "breck"
   },
   {
-    "rank": 8,
+    "rank": 9,
     "url": "https://www.habox.com/",
     "try": "https://www.youtube.com/embed/AD6NSwHs7OU?si=ML7JXVZwdjMImoa9",
     "date": "9/25/2024",
@@ -16,7 +24,7 @@
     "user": "breck"
   },
   {
-    "rank": 9,
+    "rank": 10,
     "url": "https://softwareengineeringhandbook.com/",
     "try": "https://www.loom.com/embed/9f59e3fc516c4a5fb7e82dcf02901104?sid=b1f3652c-a0ee-4a8d-b147-985b6eddab90",
     "date": "9/25/2024",
@@ -24,7 +32,7 @@
     "user": "breck"
   },
   {
-    "rank": 10,
+    "rank": 11,
     "url": "https://www.jonashietala.se/blog/2024/09/25/why_i_still_blog_after_15_years/",
     "try": "https://www.youtube.com/embed/UF7fjvE_Lco?si=DIrTdUOBao4AKlzH",
     "date": "9/25/2024",
@@ -32,7 +40,7 @@
     "user": "breck"
   },
   {
-    "rank": 11,
+    "rank": 12,
     "url": "https://supergrow.ai",
     "try": "https://www.youtube.com/embed/qvAJnxqav1I?si=ZpSN3X2j0OO6CN2d",
     "date": "9/24/2024",
@@ -40,7 +48,7 @@
     "user": "breck"
   },
   {
-    "rank": 12,
+    "rank": 13,
     "url": "https://clipchamp.com/",
     "try": "https://www.youtube.com/embed/kx5WoMB1xXI?si=4HKIEIPzO0lubr1V",
     "date": "9/24/2024",
@@ -48,7 +56,7 @@
     "user": "breck"
   },
   {
-    "rank": 13,
+    "rank": 14,
     "url": "https://github.com/torrentg/expr",
     "try": "https://www.youtube.com/embed/DS5MXJSGgHM?si=s0CMTFVwWg7oGuAm",
     "date": "9/24/2024",
@@ -56,7 +64,7 @@
     "user": "breck"
   },
   {
-    "rank": 14,
+    "rank": 15,
     "url": "https://json4u.com",
     "try": "https://www.youtube.com/embed/ERpyG_f2gJE?si=ItqT1mPweRQZJ75h",
     "date": "9/24/2024",
@@ -64,7 +72,7 @@
     "user": "breck"
   },
   {
-    "rank": 15,
+    "rank": 16,
     "url": "https://news.pub/",
     "try": "https://www.loom.com/share/9629c883f32b4fa58af29d7a43c3ba27?sid=b980cc28-b225-4e3e-8b3d-7790e376d88e",
     "date": "9/23/2024",
@@ -72,7 +80,7 @@
     "user": "hassam"
   },
   {
-    "rank": 16,
+    "rank": 17,
     "url": "https://obsess.life/",
     "try": "https://www.youtube.com/embed/Kd0_GsU0hV0?si=BiPyGvOaEpioejr9",
     "date": "9/23/2024",
@@ -80,7 +88,7 @@
     "user": "breck"
   },
   {
-    "rank": 17,
+    "rank": 18,
     "url": "https://www.dictaphone.io/",
     "try": "https://www.youtube.com/embed/nbHNcJXNzkY?si=JN5f3sXUwsOwariZ",
     "date": "9/23/2024",
@@ -88,7 +96,7 @@
     "user": "breck"
   },
   {
-    "rank": 18,
+    "rank": 19,
     "url": "https://www.rapidreview.cc/",
     "try": "https://www.youtube.com/embed/AvdWTwrfysU?si=3ebqups1uRMcg5Fp",
     "date": "9/23/2024",
@@ -136,7 +144,7 @@
     "user": "breck"
   },
   {
-    "rank": 19,
+    "rank": 20,
     "url": "https://x.com/staysaasy/status/1837812645946126560",
     "try": "https://www.youtube.com/embed/KhDvFNefvuU?si=xWWtKewSZe3V1j7i",
     "date": "9/22/2024",
@@ -144,7 +152,7 @@
     "user": "breck"
   },
   {
-    "rank": 20,
+    "rank": 21,
     "url": "https://classysoftware.io/chat-analysis/",
     "try": "https://www.youtube.com/embed/2eac5XZesgA?si=NDql-yhNEJIH6ykb",
     "date": "9/22/2024",
@@ -160,7 +168,7 @@
     "user": "breck"
   },
   {
-    "rank": 21,
+    "rank": 22,
     "url": "https://laike9m.com/blog/no-one-builds-in-public,160/",
     "try": "https://www.youtube.com/embed/10SIY3jEA6o?si=-6WwfJddlYvvy9Qk",
     "date": "9/22/2024",
@@ -208,7 +216,7 @@
     "user": "steph"
   },
   {
-    "rank": 22,
+    "rank": 23,
     "url": "https://youtubetranscriptoptimizer.com/",
     "try": "https://www.loom.com/embed/b863ae3195d54f8cbe1c9931c8d96b0e?sid=11529b69-02c3-46cf-ae8f-346bb0c19f6b",
     "date": "9/21/2024",
@@ -216,7 +224,7 @@
     "user": "breck"
   },
   {
-    "rank": 23,
+    "rank": 24,
     "url": "https://github.com/g-udi/gaudiBar.widget",
     "try": "https://www.loom.com/embed/e02ff9d493c3423c8f6a986711ca7c88?sid=f4c15a3a-404a-45bd-851e-5917d8f66bf9",
     "date": "9/21/2024",
@@ -224,7 +232,7 @@
     "user": "breck"
   },
   {
-    "rank": 24,
+    "rank": 25,
     "url": "https://www.gamesinprogress.com/",
     "try": "https://www.loom.com/embed/b6d3309dffe942c9bf5093b64323196d?sid=9148c264-4e0a-44f7-ba5f-0efcb00029d7",
     "date": "9/21/2024",
@@ -232,7 +240,7 @@
     "user": "breck"
   },
   {
-    "rank": 25,
+    "rank": 26,
     "url": "https://aimathgpt.forit.ai/",
     "try": "https://www.loom.com/embed/85e585a96bc44f5995bbca790191c7c0?sid=57ccade0-d54f-448c-8cb6-f1c735e7e099",
     "date": "9/21/2024",
@@ -240,7 +248,7 @@
     "user": "breck"
   },
   {
-    "rank": 26,
+    "rank": 27,
     "url": "https://hn-pm.me/login",
     "try": "https://www.loom.com/embed/064bd4b9865845e9a055f7138dfc1a3d?sid=6bf557aa-f9ba-48bd-a213-8820dd523cc2",
     "date": "9/21/2024",
