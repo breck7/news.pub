@@ -4,6 +4,12 @@ tries.parsers
 
 // New tries go up top
 
+url https://www.codeviz.ai/
+creation CodeViz
+try https://www.loom.com/embed/aab68abb578e4516bff9472c6c472fcd?sid=0d3508af-571b-4448-9fec-48f62dd0a1fe
+date 9/27/2024
+buildername breck
+
 url https://chianglab.bio/2024/09/26/spatial-technologies-of-the-future/
 creation Spatial technologies of the future
 try https://www.loom.com/embed/d9ad5161724d494090576a927dc5fcb8?sid=c54f8003-5dbc-40ab-b353-455653132ffb
