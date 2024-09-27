@@ -33,17 +33,17 @@ rank,creation,creationLink,date,tries
 28,Craft Your Perfect Dev Environment,https://github.com/g-udi/gaudiBar.widget,9/21/2024,""
 29,GamesInProgress – Discover and follow indie game developers,https://www.gamesinprogress.com/,9/21/2024,""
 30,I made a O1 AI math that turns F's into A+'s overnight,https://aimathgpt.forit.ai/,9/21/2024,""
-31,Private Messages for Hacker News Users,https://hn-pm.me/login,9/21/2024,""
+31,Private Messages for Hacker News Builders,https://hn-pm.me/login,9/21/2024,""
 
-Build something new to try? Email a title and link to one of our users.
- /users.html users
+Build something new to try? Email a title and link to one of our builders.
+ /builders.html builders
 
 Download this data as JSON.
  /tries.json JSON
  https://github.com/breck7/news.pub/blob/main/tries.scroll this data
 
-Home | Users | Join | Add Try
+Home | Builders | Join | Add Try
  /index.html Home
- /users.html Users
- https://github.com/breck7/news.pub/edit/main/users.scroll Join
+ /builders.html Builders
+ https://github.com/breck7/news.pub/edit/main/builders.scroll Join
  https://github.com/breck7/news.pub/edit/main/tries.scroll Add Try

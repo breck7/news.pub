@@ -1,13 +1,13 @@
-BuilderNews Users
-=================
-username,name,links
+Builders
+========
+buildername,name,links
 breck,Breck Yunits,"email twitter buymeacoffee homepage gits youtube"
 steph,Stephanie Rania,"email twitter instagram"
 nm,Namanyay Goel,"email homepage gits"
 hassam,Hassam Alhajaji,"email gits"
 
-Home | Users | Join | Add Try
+Home | Builders | Join | Add Try
  /index.html Home
- /users.html Users
- https://github.com/breck7/news.pub/edit/main/users.scroll Join
+ /builders.html Builders
+ https://github.com/breck7/news.pub/edit/main/builders.scroll Join
  https://github.com/breck7/news.pub/edit/main/tries.scroll Add Try

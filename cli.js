@@ -15,14 +15,14 @@ if (!Disk.exists(dataPath)) Disk.mkdir(dataPath)
 class NewsCli extends ScrollSetCLI {
   async buildCommand() {}
 
-  // fetch user data
+  // fetch builder data
   async fetchCommand() {
-    const users = require("./users.json")
+    const builders = require("./builders.json")
     await Promise.all(
-      users.map(async (user) =>
+      builders.map(async (builder) =>
         this.downloadFileToDisk(
-          user.data,
-          path.join(dataPath, user.username + ".scroll"),
+          builder.data,
+          path.join(dataPath, builder.buildername + ".scroll"),
         ),
       ),
     )

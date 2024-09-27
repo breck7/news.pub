@@ -82,20 +82,21 @@
     </div>
 </div>
 <script>
-    const getUsername = tryUrl => window.tries.find(item => item.try === tryUrl)?.user;
-    const getBuyMeACoffee = username => window.users.find(user => user.username === username)?.buymeacoffee || null;
+    const getBuildername = (tryUrl) =>
+        window.tries.find((item) => item.try === tryUrl)?.buildername
+    const getBuyMeACoffee = (buildername) =>
+        window.builders.find((builder) => builder.buildername === buildername)?.buymeacoffee ||
+        null
     function openModal(url) {
         document.getElementById("theVideo").src = url
         document.getElementById("videoModal").style.display = "block"
 
-        const username = getUsername(url)
-        const buymeacoffee = getBuyMeACoffee(username)
+        const buildername = getBuildername(url)
+        const buymeacoffee = getBuyMeACoffee(buildername)
         if (buymeacoffee) {
-          document.getElementById("buyMeACoffee").style.display = "block"
-          document.getElementById("buyMeACoffee").href = buymeacoffee
-        }
-        else
-            document.getElementById("buyMeACoffee").style.display = "none"
+            document.getElementById("buyMeACoffee").style.display = "block"
+            document.getElementById("buyMeACoffee").href = buymeacoffee
+        } else document.getElementById("buyMeACoffee").style.display = "none"
     }
     function closeModal() {
         document.getElementById("videoModal").style.display = "none"
