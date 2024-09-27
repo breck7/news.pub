@@ -4,6 +4,12 @@ tries.parsers
 
 // New tries go up top
 
+url https://www.youtube.com/@keeptalkingpod
+creation Keep Talking Newsletter
+try https://www.loom.com/embed/8b783e9fe5b34a34b7b37d089eb71e9c?sid=62fd93a6-1025-44d7-973d-3936289db13d
+date 9/27/2024
+user breck
+
 url https://www.snowpilot.com/
 creation Snowpilot
 try https://www.loom.com/embed/d789de706c334cbfa4904ce862dfc46b?sid=ec558a6c-451a-4a92-89fa-ae2578129602
