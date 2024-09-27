@@ -1,7 +1,7 @@
 BuilderNews
 ===========
-Watch other builders try your builds for the first time.
-========================================================
+Watch other builders try your creations for the first time.
+===========================================================
 rank,creation,creationLink,date,tries
 1,A tool to easily convert any web page into an eBook,https://ebookany.com/,9/22/2024," "
 2,Nuenki - Learn a language while you browse the web,https://nuenki.app/,9/22/2024," "

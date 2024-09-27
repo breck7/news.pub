@@ -8,7 +8,7 @@ users.json
 
 <div class="container">
 # BuilderNews
-### Watch other builders try your builds for the first time.
+### Watch other builders try your creations for the first time.
 table tries.csv
  compose userPhotoLink <a onclick="openModal('{try}'); return false;" href="{try}"><img class="thumbnail" src="photos/{user}.jpg" /></a>
   rename url creationLink
