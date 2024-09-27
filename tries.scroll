@@ -4,7 +4,11 @@ tries.parsers
 
 // New tries go up top
 
-
+url https://www.snowpilot.com/
+creation Snowpilot
+try https://www.loom.com/embed/d789de706c334cbfa4904ce862dfc46b?sid=ec558a6c-451a-4a92-89fa-ae2578129602
+date 9/26/2024
+user breck
 
 url https://www.synnaxlabs.com/
 creation Synnax Labs
