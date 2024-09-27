@@ -4,16 +4,16 @@ description News for builders.
 header.scroll
 
 tries.json
-users.json
+builders.json
 
 <div class="container">
 # BuilderNews
 ### Builders helping builders. Watch builders try your creations.
 table tries.csv
- compose userPhotoLink <a onclick="openModal('{try}'); return false;" href="{try}"><img class="thumbnail" src="photos/{user}.jpg" /></a>
+ compose builderPhotoLink <a onclick="openModal('{try}'); return false;" href="{try}"><img class="thumbnail" src="photos/{buildername}.jpg" /></a>
   rename url creationLink
-   select rank creation creationLink userPhotoLink date
-    rename userPhotoLink tries
+   select rank creation creationLink builderPhotoLink date
+    rename builderPhotoLink tries
      orderBy rank
       groupBy rank
        reduce date first date
@@ -23,8 +23,8 @@ table tries.csv
        select rank creation creationLink date tries
         printTable
 
-Build something new to try? Email a title and link to one of our users.
- link users.html users
+Build something new to try? Email a title and link to one of our builders.
+ link builders.html builders
 
 Download this data as JSON.
  link tries.json JSON

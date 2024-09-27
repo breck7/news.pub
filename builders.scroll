@@ -1,6 +1,6 @@
-users.parsers
+builders.parsers
 
-username breck
+buildername breck
 email breck7@gmail.com
 name Breck Yunits
 youtube https://www.youtube.com/@breckyunits
@@ -9,19 +9,19 @@ homepage https://breckyunits.com
 gits https://github.com/breck7
 buymeacoffee https://www.buymeacoffee.com/breck7a
 
-username steph
+buildername steph
 email slrania@gmail.com
 name Stephanie Rania
 twitter https://x.com/ballotshaker
 instagram https://instagram.com/ballotshaker
 
-username nm
+buildername nm
 email hi@nmn.gl
 name Namanyay Goel
 homepage https://nmn.gl/
 gits https://github.com/namanyayg
 
-username hassam
+buildername hassam
 name Hassam Alhajaji
 email hassam.alhajaji@gmail.com
 gits https://github.com/hassamalhajaji
