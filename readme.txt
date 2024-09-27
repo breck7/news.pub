@@ -1,1 +1,15 @@
+Aloha!
 
+BuilderNews is a new place on the web (and the World Wide Scroll) full of good energy.
+ https://wws.scroll.pub/ World Wide Scroll
+
+We want to create a wildly positive, constructive, online space overflowing with good energy for builders.
+
+We want to shine the spotlight on great new creations.
+
+We want to keep the focus on the strengths, while casually making lighthearted jokes about the nits.
+
+I hope you enjoy it!
+
+Breck
+Co-founder
