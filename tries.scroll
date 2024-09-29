@@ -4,6 +4,12 @@ tries.parsers
 
 // New tries go up top
 
+url https://storia.ai/
+creation Storia AI
+try https://www.loom.com/embed/91eeeef1b3db437ea60418daa1aadf1a?sid=c446f795-2ace-4652-abd1-a4d84d361158
+date 9/28/2024
+buildername breck
+
 url https://www.codeviz.ai/
 creation CodeViz
 try https://www.loom.com/embed/aab68abb578e4516bff9472c6c472fcd?sid=0d3508af-571b-4448-9fec-48f62dd0a1fe
