@@ -676,6 +676,12 @@
 <p class="scrollParagraph">Build something new to try? Email a title and link to one of our <a href="builders.html">builders</a>.</p>
 <p class="scrollParagraph">Download <a href="https://github.com/breck7/news.pub/blob/main/tries.scroll">this data</a> as <a href="tries.json">JSON</a>.</p>
 <style>
+    .video-title {
+        text-align: center;
+        margin-bottom: 10px;
+        font-weight: bold;
+        color: black;
+    }
     .modal {
         display: none;
         position: fixed;
@@ -742,6 +748,7 @@
 <div id="videoModal" class="modal">
     <div class="modal-content">
         <span class="close" onclick="closeModal()">&times;</span>
+        <div class="video-title" id="videoTitle">breck tries x</div>
         <div class="video-container">
             <iframe
                 id="theVideo"
@@ -761,15 +768,20 @@
 <script>
     const getBuildername = (tryUrl) =>
         window.tries.find((item) => item.try === tryUrl)?.buildername
+    const getTitle = (tryUrl) =>
+        window.tries.find((item) => item.try === tryUrl)?.creation
     const getBuyMeACoffee = (buildername) =>
-        window.builders.find((builder) => builder.buildername === buildername)?.buymeacoffee ||
-        null
+        window.builders.find((builder) => builder.buildername === buildername)
+            ?.buymeacoffee || null
     function openModal(url) {
         document.getElementById("theVideo").src = url
         document.getElementById("videoModal").style.display = "block"
-
         const buildername = getBuildername(url)
+        const title = getTitle(url)
         const buymeacoffee = getBuyMeACoffee(buildername)
+        document.getElementById("videoTitle").textContent = `${buildername} tries ${title}`
+
+        
         if (buymeacoffee) {
             document.getElementById("buyMeACoffee").style.display = "block"
             document.getElementById("buyMeACoffee").href = buymeacoffee
