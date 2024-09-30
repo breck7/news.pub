@@ -41,9 +41,6 @@ rank,creation,creationLink,date,tries
 36,I made a O1 AI math that turns F's into A+'s overnight,https://aimathgpt.forit.ai/,9/21/2024,""
 37,Private Messages for Hacker News Builders,https://hn-pm.me/login,9/21/2024,""
 
-Build something new to try? Email a title and link to one of our builders.
- /builders.html builders
-
 Download this data as JSON.
  /tries.json JSON
  https://github.com/breck7/news.pub/blob/main/tries.scroll this data
