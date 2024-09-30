@@ -23,9 +23,6 @@ table tries.csv
        select rank creation creationLink date tries
         printTable
 
-Build something new to try? Email a title and link to one of our builders.
- link builders.html builders
-
 Download this data as JSON.
  link tries.json JSON
  https://github.com/breck7/news.pub/blob/main/tries.scroll this data
