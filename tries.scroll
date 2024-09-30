@@ -6,7 +6,7 @@ tries.parsers
 
 url https://mitohealth.com/
 creation Mito Health
-try https://www.youtube.com/watch?v=SIVlWNR_E5E
+try https://www.youtube.com/embed/SIVlWNR_E5E?si=NvlzOkLI4t5t9RKI
 date 9/30/2024
 buildername breck
 
