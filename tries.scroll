@@ -4,6 +4,12 @@ tries.parsers
 
 // New tries go up top
 
+url https://www.luxcapital.com/
+creation Lux Capital
+try https://www.loom.com/embed/97609c0784fd4b30a430b3c6eccdee60?sid=f69e8d15-69ca-4801-b22c-8ca5e1cd3c1e
+date 10/01/2024
+buildername breck
+
 url https://humankind.place/
 creation Humankind Candles
 try https://www.youtube.com/embed/9YwbVUukq3k?si=7vEULRm1rTbZUO4z
