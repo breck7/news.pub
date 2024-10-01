@@ -4,6 +4,12 @@ tries.parsers
 
 // New tries go up top
 
+url https://haystackeditor.com/
+creation Haystack
+try https://www.loom.com/embed/0f3a1d6c89ea4f289cf1a2ec3e6ebb77?sid=1c1f9fc9-d6ae-4fef-a2e5-578db7195917
+date 9/30/2024
+buildername breck
+
 url https://mitohealth.com/
 creation Mito Health
 try https://www.youtube.com/embed/SIVlWNR_E5E?si=NvlzOkLI4t5t9RKI
