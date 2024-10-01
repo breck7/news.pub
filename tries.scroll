@@ -4,6 +4,12 @@ tries.parsers
 
 // New tries go up top
 
+url https://www.rogodata.com
+creation Rogo
+try https://www.loom.com/embed/7f4750b4a3974eb7b50ec14a8754b1ba?sid=2e16d6e7-66c7-4a21-a697-7300e41dd24d
+date 10/01/2024
+buildername breck
+
 url https://haystackeditor.com/
 creation Haystack
 try https://www.loom.com/embed/0f3a1d6c89ea4f289cf1a2ec3e6ebb77?sid=1c1f9fc9-d6ae-4fef-a2e5-578db7195917
