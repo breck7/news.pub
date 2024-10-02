@@ -4,6 +4,12 @@ tries.parsers
 
 // New tries go up top
 
+url https://coworkcoffee.com
+creation Cowork Coffee
+try https://www.youtube.com/embed/ItNfgj0ADI4?si=Q2WihMUNTM_2A2fw
+date 10/01/2024
+buildername breck
+
 url https://rysana.com/
 creation Rysana
 try https://www.youtube.com/embed/MMiTBiTi64A?si=fE4BhncABURQIjKI
