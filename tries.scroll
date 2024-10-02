@@ -4,6 +4,12 @@ tries.parsers
 
 // New tries go up top
 
+url https://www.trykeet.com
+creation Keet
+try https://www.loom.com/embed/d92ed08b415b4cc3a36f83eed045fd25?sid=4f81a4ec-60c7-4e1f-86ca-c453c38aabe3
+date 10/02/2024
+buildername breck
+
 url https://www.hestus.co/
 creation Hestus
 try https://www.loom.com/embed/68ad87a7f6894aa7ad53b5ae5fc6a0be?sid=99eb0ee5-6485-49e7-9c45-ee695d897cdc
