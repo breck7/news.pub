@@ -4,6 +4,12 @@ tries.parsers
 
 // New tries go up top
 
+url https://www.hestus.co/
+creation Hestus
+try https://www.loom.com/embed/68ad87a7f6894aa7ad53b5ae5fc6a0be?sid=99eb0ee5-6485-49e7-9c45-ee695d897cdc
+date 10/01/2024
+buildername breck
+
 url https://coworkcoffee.com
 creation Cowork Coffee
 try https://www.youtube.com/embed/ItNfgj0ADI4?si=Q2WihMUNTM_2A2fw
