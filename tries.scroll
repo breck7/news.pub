@@ -4,6 +4,12 @@ tries.parsers
 
 // New tries go up top
 
+url https://rejectedbyyc.com/
+creation RejectedByYC
+try https://www.youtube.com/embed/DMxpr1SKNeA?si=tZcDdEotu5WVQaN6
+date 10/03/2024
+buildername breck
+
 url https://www.trykeet.com
 creation Keet
 try https://www.loom.com/embed/d92ed08b415b4cc3a36f83eed045fd25?sid=4f81a4ec-60c7-4e1f-86ca-c453c38aabe3
