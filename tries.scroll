@@ -4,6 +4,12 @@ tries.parsers
 
 // New tries go up top
 
+url https://ghost.org/
+creation Ghost
+try https://www.youtube.com/embed/3MzPwY6kotU?si=7eJTprFu-sjb8lsd
+date 10/05/2024
+buildername breck
+
 url https://comm.app/
 creation Comm
 try https://www.youtube.com/embed/drYSpF2pBsM?si=k8Q3CEOhEFuYVzpS
