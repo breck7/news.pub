@@ -1005,6 +1005,12 @@
         window.builders.find((builder) => builder.buildername === buildername)
             ?.buymeacoffee || null
     function openModal(url) {
+        if (!url.includes("embed")) {
+            // if the url doesnt include embed, just go to site.
+            window.location = url
+            return true
+        }
+
         document.getElementById("theVideo").src = url
         document.getElementById("videoModal").style.display = "block"
         const buildername = getBuildername(url)
