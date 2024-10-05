@@ -6,7 +6,7 @@ tries.parsers
 
 url https://www.operatingsystem.io/
 creation OperatingSystem.io
-try https://www.youtube.com/watch?v=QQz8mkYQ41I
+try https://www.youtube.com/embed/QQz8mkYQ41I?si=TWiI8bvzx3yOQiGQ
 date 10/05/2024
 buildername breck
 
