@@ -9,7 +9,7 @@ rank,creation,creationLink,date,tries
 4,Dirt Cheap Gold – Find the cheapest gold prices,https://www.dirtcheapgold.com/,9/22/2024," "
 5,Unswt – Free AI Sugar Tracker Using Meal Photos,https://unswt.com/,9/22/2024," "
 6,Time Flies,https://time-flies.koenvangilst.nl/,9/21/2024," "
-7,Alberto Taiuti,https://albertotaiuti.com/,10/05/2024,""
+7,AlbertoTaiuti.com,https://albertotaiuti.com/,10/05/2024,""
 8,OperatingSystem.io,https://www.operatingsystem.io/,10/05/2024,""
 9,"Prettierd, Prettier, and JSPrettier",https://github.com/fsouza/prettierd,10/05/2024,""
 10,Ghost,https://ghost.org/,10/05/2024,""
