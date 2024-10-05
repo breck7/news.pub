@@ -4,6 +4,12 @@ tries.parsers
 
 // New tries go up top
 
+url https://douwe.com/projects/freshnews
+creation freshnews
+try https://www.youtube.com/embed/P_0yqTFPzxU?si=fy1wDEEz81u49iE6
+date 10/05/2024
+buildername breck
+
 url https://twocents.site/
 creation TwoCents.site
 try https://www.loom.com/embed/c8430de282694defa75ae041ae3ee74a?sid=4c3ff203-38b3-4549-b644-4d634d49e644
