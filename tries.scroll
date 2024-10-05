@@ -4,6 +4,12 @@ tries.parsers
 
 // New tries go up top
 
+url https://twocents.site/
+creation TwoCents.site
+try https://www.loom.com/embed/c8430de282694defa75ae041ae3ee74a?sid=4c3ff203-38b3-4549-b644-4d634d49e644
+date 10/05/2024
+buildername breck
+
 url https://albertotaiuti.com/
 creation AlbertoTaiuti.com
 try https://www.loom.com/embed/8d6c80e4659344f09e274238dce65962?sid=ac8fc494-86e0-4a3a-826f-3510f215178d
