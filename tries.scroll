@@ -4,6 +4,12 @@ tries.parsers
 
 // New tries go up top
 
+url https://docs.deno.com/api/node/
+creation Deno Documentation
+try https://www.youtube.com/embed/VGAVtvGBD1s?si=sNNPDRM_sydmxykr
+date 10/05/2024
+buildername breck
+
 url https://douwe.com/projects/freshnews
 creation freshnews
 try https://www.youtube.com/embed/P_0yqTFPzxU?si=fy1wDEEz81u49iE6

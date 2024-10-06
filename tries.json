@@ -1,6 +1,14 @@
 [
   {
     "rank": 7,
+    "url": "https://docs.deno.com/api/node/",
+    "try": "https://www.youtube.com/embed/VGAVtvGBD1s?si=sNNPDRM_sydmxykr",
+    "date": "10/05/2024",
+    "creation": "Deno Documentation",
+    "buildername": "breck"
+  },
+  {
+    "rank": 8,
     "url": "https://douwe.com/projects/freshnews",
     "try": "https://www.youtube.com/embed/P_0yqTFPzxU?si=fy1wDEEz81u49iE6",
     "date": "10/05/2024",
@@ -8,7 +16,7 @@
     "buildername": "breck"
   },
   {
-    "rank": 8,
+    "rank": 9,
     "url": "https://twocents.site/",
     "try": "https://www.loom.com/embed/c8430de282694defa75ae041ae3ee74a?sid=4c3ff203-38b3-4549-b644-4d634d49e644",
     "date": "10/05/2024",
@@ -16,7 +24,7 @@
     "buildername": "breck"
   },
   {
-    "rank": 9,
+    "rank": 10,
     "url": "https://albertotaiuti.com/",
     "try": "https://www.loom.com/embed/8d6c80e4659344f09e274238dce65962?sid=ac8fc494-86e0-4a3a-826f-3510f215178d",
     "date": "10/05/2024",
@@ -24,7 +32,7 @@
     "buildername": "breck"
   },
   {
-    "rank": 10,
+    "rank": 11,
     "url": "https://www.operatingsystem.io/",
     "try": "https://www.youtube.com/embed/QQz8mkYQ41I?si=TWiI8bvzx3yOQiGQ",
     "date": "10/05/2024",
@@ -32,7 +40,7 @@
     "buildername": "breck"
   },
   {
-    "rank": 11,
+    "rank": 12,
     "url": "https://github.com/fsouza/prettierd",
     "try": "https://www.youtube.com/embed/sdxeLDc2O9k?si=TsLAInXmla9XRDa5",
     "date": "10/05/2024",
@@ -40,7 +48,7 @@
     "buildername": "breck"
   },
   {
-    "rank": 12,
+    "rank": 13,
     "url": "https://ghost.org/",
     "try": "https://www.youtube.com/embed/3MzPwY6kotU?si=7eJTprFu-sjb8lsd",
     "date": "10/05/2024",
@@ -48,7 +56,7 @@
     "buildername": "breck"
   },
   {
-    "rank": 13,
+    "rank": 14,
     "url": "https://comm.app/",
     "try": "https://www.youtube.com/embed/drYSpF2pBsM?si=k8Q3CEOhEFuYVzpS",
     "date": "10/03/2024",
@@ -56,7 +64,7 @@
     "buildername": "breck"
   },
   {
-    "rank": 14,
+    "rank": 15,
     "url": "https://chat.openai.com/",
     "try": "https://www.youtube.com/embed/jx9LVsryC50?si=P0ye-01HlgLJcJvy",
     "date": "10/03/2024",
@@ -64,7 +72,7 @@
     "buildername": "breck"
   },
   {
-    "rank": 15,
+    "rank": 16,
     "url": "https://rejectedbyyc.com/",
     "try": "https://www.youtube.com/embed/DMxpr1SKNeA?si=tZcDdEotu5WVQaN6",
     "date": "10/03/2024",
@@ -72,7 +80,7 @@
     "buildername": "breck"
   },
   {
-    "rank": 16,
+    "rank": 17,
     "url": "https://www.trykeet.com",
     "try": "https://www.loom.com/embed/d92ed08b415b4cc3a36f83eed045fd25?sid=4f81a4ec-60c7-4e1f-86ca-c453c38aabe3",
     "date": "10/02/2024",
@@ -80,7 +88,7 @@
     "buildername": "breck"
   },
   {
-    "rank": 17,
+    "rank": 18,
     "url": "https://www.hestus.co/",
     "try": "https://www.loom.com/embed/68ad87a7f6894aa7ad53b5ae5fc6a0be?sid=99eb0ee5-6485-49e7-9c45-ee695d897cdc",
     "date": "10/01/2024",
@@ -88,7 +96,7 @@
     "buildername": "breck"
   },
   {
-    "rank": 18,
+    "rank": 19,
     "url": "https://coworkcoffee.com",
     "try": "https://www.youtube.com/embed/ItNfgj0ADI4?si=Q2WihMUNTM_2A2fw",
     "date": "10/01/2024",
@@ -96,7 +104,7 @@
     "buildername": "breck"
   },
   {
-    "rank": 19,
+    "rank": 20,
     "url": "https://rysana.com/",
     "try": "https://www.youtube.com/embed/MMiTBiTi64A?si=fE4BhncABURQIjKI",
     "date": "10/01/2024",
@@ -104,7 +112,7 @@
     "buildername": "breck"
   },
   {
-    "rank": 20,
+    "rank": 21,
     "url": "https://www.leahculver.com/",
     "try": "https://www.youtube.com/embed/6Wgsu4TxTdM?si=T46UPR0Mth-TKBIE",
     "date": "10/01/2024",
@@ -112,7 +120,7 @@
     "buildername": "breck"
   },
   {
-    "rank": 21,
+    "rank": 22,
     "url": "https://www.luxcapital.com/",
     "try": "https://www.loom.com/embed/97609c0784fd4b30a430b3c6eccdee60?sid=f69e8d15-69ca-4801-b22c-8ca5e1cd3c1e",
     "date": "10/01/2024",
@@ -120,7 +128,7 @@
     "buildername": "breck"
   },
   {
-    "rank": 22,
+    "rank": 23,
     "url": "https://humankind.place/",
     "try": "https://www.youtube.com/embed/9YwbVUukq3k?si=7vEULRm1rTbZUO4z",
     "date": "10/01/2024",
@@ -128,7 +136,7 @@
     "buildername": "breck"
   },
   {
-    "rank": 23,
+    "rank": 24,
     "url": "https://www.rogodata.com",
     "try": "https://www.loom.com/embed/7f4750b4a3974eb7b50ec14a8754b1ba?sid=2e16d6e7-66c7-4a21-a697-7300e41dd24d",
     "date": "10/01/2024",
@@ -136,7 +144,7 @@
     "buildername": "breck"
   },
   {
-    "rank": 24,
+    "rank": 25,
     "url": "https://haystackeditor.com/",
     "try": "https://www.loom.com/embed/0f3a1d6c89ea4f289cf1a2ec3e6ebb77?sid=1c1f9fc9-d6ae-4fef-a2e5-578db7195917",
     "date": "9/30/2024",
@@ -144,7 +152,7 @@
     "buildername": "breck"
   },
   {
-    "rank": 25,
+    "rank": 26,
     "url": "https://mitohealth.com/",
     "try": "https://www.youtube.com/embed/SIVlWNR_E5E?si=NvlzOkLI4t5t9RKI",
     "date": "9/30/2024",
@@ -152,7 +160,7 @@
     "buildername": "breck"
   },
   {
-    "rank": 26,
+    "rank": 27,
     "url": "https://actionbase.co",
     "try": "https://www.loom.com/embed/7560c4f4550143818731d4838d06138f?sid=e4f4f2bf-93dc-476c-b355-e0411e36aace",
     "date": "9/30/2024",
@@ -160,7 +168,7 @@
     "buildername": "breck"
   },
   {
-    "rank": 27,
+    "rank": 28,
     "url": "https://github.com/twny/genesis",
     "try": "https://www.loom.com/embed/5c2a8131254d4e54b85b303b6bd0fe40?sid=341ba4ce-5d83-4149-a5d4-2526afbbae71",
     "date": "9/30/2024",
@@ -168,7 +176,7 @@
     "buildername": "breck"
   },
   {
-    "rank": 28,
+    "rank": 29,
     "url": "https://infinilearn.com/",
     "try": "https://www.loom.com/embed/0b238e3db7f541b68d94fd4014c6ce14?sid=2df914b6-0f12-407c-9ad3-ae0150c6266b",
     "date": "9/29/2024",
@@ -176,7 +184,7 @@
     "buildername": "breck"
   },
   {
-    "rank": 29,
+    "rank": 30,
     "url": "https://paulgraham.com/when.html",
     "try": "https://www.loom.com/embed/9ac3f3b85fd94ea9ad5a880503a17eab?sid=b15d3378-1893-486d-ba15-9bee2a319223",
     "date": "9/29/2024",
@@ -184,7 +192,7 @@
     "buildername": "breck"
   },
   {
-    "rank": 30,
+    "rank": 31,
     "url": "https://storia.ai/",
     "try": "https://www.loom.com/embed/91eeeef1b3db437ea60418daa1aadf1a?sid=c446f795-2ace-4652-abd1-a4d84d361158",
     "date": "9/28/2024",
@@ -192,7 +200,7 @@
     "buildername": "breck"
   },
   {
-    "rank": 31,
+    "rank": 32,
     "url": "https://www.codeviz.ai/",
     "try": "https://www.loom.com/embed/aab68abb578e4516bff9472c6c472fcd?sid=0d3508af-571b-4448-9fec-48f62dd0a1fe",
     "date": "9/27/2024",
@@ -200,7 +208,7 @@
     "buildername": "breck"
   },
   {
-    "rank": 32,
+    "rank": 33,
     "url": "https://chianglab.bio/2024/09/26/spatial-technologies-of-the-future/",
     "try": "https://www.loom.com/embed/d9ad5161724d494090576a927dc5fcb8?sid=c54f8003-5dbc-40ab-b353-455653132ffb",
     "date": "9/27/2024",
@@ -208,7 +216,7 @@
     "buildername": "breck"
   },
   {
-    "rank": 33,
+    "rank": 34,
     "url": "https://www.afterfeedback.com/",
     "try": "https://www.youtube.com/embed/AJSujlcDJXw?si=5eHP4KihMMQl6pY5",
     "date": "9/27/2024",
@@ -216,7 +224,7 @@
     "buildername": "breck"
   },
   {
-    "rank": 34,
+    "rank": 35,
     "url": "https://www.arcade.ai/",
     "try": "https://www.youtube.com/embed/LEpmUSCdAEc?si=cOBug8LUp_yolQpN",
     "date": "9/27/2024",
@@ -224,7 +232,7 @@
     "buildername": "breck"
   },
   {
-    "rank": 35,
+    "rank": 36,
     "url": "https://www.youtube.com/@keeptalkingpod",
     "try": "https://www.loom.com/embed/8b783e9fe5b34a34b7b37d089eb71e9c?sid=62fd93a6-1025-44d7-973d-3936289db13d",
     "date": "9/27/2024",
@@ -232,7 +240,7 @@
     "buildername": "breck"
   },
   {
-    "rank": 36,
+    "rank": 37,
     "url": "https://www.snowpilot.com/",
     "try": "https://www.loom.com/embed/d789de706c334cbfa4904ce862dfc46b?sid=ec558a6c-451a-4a92-89fa-ae2578129602",
     "date": "9/26/2024",
@@ -240,7 +248,7 @@
     "buildername": "breck"
   },
   {
-    "rank": 37,
+    "rank": 38,
     "url": "https://www.synnaxlabs.com/",
     "try": "https://www.loom.com/embed/b4e86574742a4882b18113143c942bae?sid=c9f91ea1-e125-4c37-aeae-2e56adfff1a0",
     "date": "9/26/2024",
@@ -248,7 +256,7 @@
     "buildername": "breck"
   },
   {
-    "rank": 38,
+    "rank": 39,
     "url": "https://launchgrid.blitlabs.com/",
     "try": "https://www.loom.com/embed/60dd990025564138b206a13f80441e7f?sid=f4f03bce-05e9-4bdf-a84c-1c2bb3ed5442",
     "date": "9/25/2024",
@@ -256,7 +264,7 @@
     "buildername": "breck"
   },
   {
-    "rank": 39,
+    "rank": 40,
     "url": "https://www.habox.com/",
     "try": "https://www.youtube.com/embed/AD6NSwHs7OU?si=ML7JXVZwdjMImoa9",
     "date": "9/25/2024",
@@ -264,7 +272,7 @@
     "buildername": "breck"
   },
   {
-    "rank": 40,
+    "rank": 41,
     "url": "https://softwareengineeringhandbook.com/",
     "try": "https://www.loom.com/embed/9f59e3fc516c4a5fb7e82dcf02901104?sid=b1f3652c-a0ee-4a8d-b147-985b6eddab90",
     "date": "9/25/2024",
@@ -272,7 +280,7 @@
     "buildername": "breck"
   },
   {
-    "rank": 41,
+    "rank": 42,
     "url": "https://www.jonashietala.se/blog/2024/09/25/why_i_still_blog_after_15_years/",
     "try": "https://www.youtube.com/embed/UF7fjvE_Lco?si=DIrTdUOBao4AKlzH",
     "date": "9/25/2024",
@@ -280,7 +288,7 @@
     "buildername": "breck"
   },
   {
-    "rank": 42,
+    "rank": 43,
     "url": "https://supergrow.ai",
     "try": "https://www.youtube.com/embed/qvAJnxqav1I?si=ZpSN3X2j0OO6CN2d",
     "date": "9/24/2024",
@@ -288,7 +296,7 @@
     "buildername": "breck"
   },
   {
-    "rank": 43,
+    "rank": 44,
     "url": "https://clipchamp.com/",
     "try": "https://www.youtube.com/embed/kx5WoMB1xXI?si=4HKIEIPzO0lubr1V",
     "date": "9/24/2024",
@@ -296,7 +304,7 @@
     "buildername": "breck"
   },
   {
-    "rank": 44,
+    "rank": 45,
     "url": "https://github.com/torrentg/expr",
     "try": "https://www.youtube.com/embed/DS5MXJSGgHM?si=s0CMTFVwWg7oGuAm",
     "date": "9/24/2024",
@@ -304,7 +312,7 @@
     "buildername": "breck"
   },
   {
-    "rank": 45,
+    "rank": 46,
     "url": "https://json4u.com",
     "try": "https://www.youtube.com/embed/ERpyG_f2gJE?si=ItqT1mPweRQZJ75h",
     "date": "9/24/2024",
@@ -312,7 +320,7 @@
     "buildername": "breck"
   },
   {
-    "rank": 46,
+    "rank": 47,
     "url": "https://news.pub/",
     "try": "https://www.loom.com/share/9629c883f32b4fa58af29d7a43c3ba27?sid=b980cc28-b225-4e3e-8b3d-7790e376d88e",
     "date": "9/23/2024",
@@ -320,7 +328,7 @@
     "buildername": "hassam"
   },
   {
-    "rank": 47,
+    "rank": 48,
     "url": "https://obsess.life/",
     "try": "https://www.youtube.com/embed/Kd0_GsU0hV0?si=BiPyGvOaEpioejr9",
     "date": "9/23/2024",
@@ -328,7 +336,7 @@
     "buildername": "breck"
   },
   {
-    "rank": 48,
+    "rank": 49,
     "url": "https://www.dictaphone.io/",
     "try": "https://www.youtube.com/embed/nbHNcJXNzkY?si=JN5f3sXUwsOwariZ",
     "date": "9/23/2024",
@@ -336,7 +344,7 @@
     "buildername": "breck"
   },
   {
-    "rank": 49,
+    "rank": 50,
     "url": "https://www.rapidreview.cc/",
     "try": "https://www.youtube.com/embed/AvdWTwrfysU?si=3ebqups1uRMcg5Fp",
     "date": "9/23/2024",
@@ -384,7 +392,7 @@
     "buildername": "breck"
   },
   {
-    "rank": 50,
+    "rank": 51,
     "url": "https://x.com/staysaasy/status/1837812645946126560",
     "try": "https://www.youtube.com/embed/KhDvFNefvuU?si=xWWtKewSZe3V1j7i",
     "date": "9/22/2024",
@@ -392,7 +400,7 @@
     "buildername": "breck"
   },
   {
-    "rank": 51,
+    "rank": 52,
     "url": "https://classysoftware.io/chat-analysis/",
     "try": "https://www.youtube.com/embed/2eac5XZesgA?si=NDql-yhNEJIH6ykb",
     "date": "9/22/2024",
@@ -408,7 +416,7 @@
     "buildername": "breck"
   },
   {
-    "rank": 52,
+    "rank": 53,
     "url": "https://laike9m.com/blog/no-one-builds-in-public,160/",
     "try": "https://www.youtube.com/embed/10SIY3jEA6o?si=-6WwfJddlYvvy9Qk",
     "date": "9/22/2024",
@@ -456,7 +464,7 @@
     "buildername": "steph"
   },
   {
-    "rank": 53,
+    "rank": 54,
     "url": "https://youtubetranscriptoptimizer.com/",
     "try": "https://www.loom.com/embed/b863ae3195d54f8cbe1c9931c8d96b0e?sid=11529b69-02c3-46cf-ae8f-346bb0c19f6b",
     "date": "9/21/2024",
@@ -464,7 +472,7 @@
     "buildername": "breck"
   },
   {
-    "rank": 54,
+    "rank": 55,
     "url": "https://github.com/g-udi/gaudiBar.widget",
     "try": "https://www.loom.com/embed/e02ff9d493c3423c8f6a986711ca7c88?sid=f4c15a3a-404a-45bd-851e-5917d8f66bf9",
     "date": "9/21/2024",
@@ -472,7 +480,7 @@
     "buildername": "breck"
   },
   {
-    "rank": 55,
+    "rank": 56,
     "url": "https://www.gamesinprogress.com/",
     "try": "https://www.loom.com/embed/b6d3309dffe942c9bf5093b64323196d?sid=9148c264-4e0a-44f7-ba5f-0efcb00029d7",
     "date": "9/21/2024",
@@ -480,7 +488,7 @@
     "buildername": "breck"
   },
   {
-    "rank": 56,
+    "rank": 57,
     "url": "https://aimathgpt.forit.ai/",
     "try": "https://www.loom.com/embed/85e585a96bc44f5995bbca790191c7c0?sid=57ccade0-d54f-448c-8cb6-f1c735e7e099",
     "date": "9/21/2024",
@@ -488,7 +496,7 @@
     "buildername": "breck"
   },
   {
-    "rank": 57,
+    "rank": 58,
     "url": "https://hn-pm.me/login",
     "try": "https://www.loom.com/embed/064bd4b9865845e9a055f7138dfc1a3d?sid=6bf557aa-f9ba-48bd-a213-8820dd523cc2",
     "date": "9/21/2024",
