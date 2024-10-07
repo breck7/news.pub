@@ -6,13 +6,11 @@ title Builders
 
 header.scroll
 
-<div class="container">
+container
 # Builders
 table
- links email twitter buymeacoffee homepage gits instagram youtube
+ links email twitter homepage gits instagram youtube
   printTable
 tableSearch
 
 footer.scroll
-
-</div>
