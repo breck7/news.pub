@@ -652,8 +652,7 @@
     "youtube": "https://www.youtube.com/@breckyunits",
     "twitter": "https://x.com/breckyunits",
     "homepage": "https://breckyunits.com",
-    "gits": "https://github.com/breck7",
-    "buymeacoffee": "https://www.buymeacoffee.com/breck7a"
+    "gits": "https://github.com/breck7"
   },
   {
     "buildername": "steph",
@@ -1037,11 +1036,11 @@
         width: 100%;
         height: 100%;
     }
-    .buy-me-coffee {
+    .social {
         text-align: center;
         margin-top: 20px;
     }
-    .buy-me-coffee a {
+    .social a {
         display: inline-block;
         padding: 10px 20px;
         background-color: #ffdd00;
@@ -1050,7 +1049,7 @@
         border-radius: 5px;
         font-weight: bold;
     }
-    .buy-me-coffee a:hover {
+    .social a:hover {
         background-color: #ffea00;
     }
 </style>
@@ -1067,21 +1066,18 @@
                 allowfullscreen
             ></iframe>
         </div>
-        <div id="buyMeACoffee" class="buy-me-coffee">
-            <a href="https://www.buymeacoffee.com/breck7a" target="_blank"
-                >Buy Me a Coffee</a
-            >
+        <div class="social">
+            <a id="social" target="_social"></a>
         </div>
     </div>
 </div>
 <script>
-    const getBuildername = (tryUrl) =>
-        window.tries.find((item) => item.try === tryUrl)?.buildername
+    const getBuilder = (tryUrl) => {
+        const match = window.tries.find((item) => item.try === tryUrl)
+        return window.builders.find((item) => item.buildername === match.buildername)
+    }
     const getTitle = (tryUrl) =>
         window.tries.find((item) => item.try === tryUrl)?.creation
-    const getBuyMeACoffee = (buildername) =>
-        window.builders.find((builder) => builder.buildername === buildername)
-            ?.buymeacoffee || null
     function openModal(url) {
         if (!url.includes("embed")) {
             // if the url doesnt include embed, just go to site.
@@ -1091,16 +1087,22 @@
 
         document.getElementById("theVideo").src = url
         document.getElementById("videoModal").style.display = "block"
-        const buildername = getBuildername(url)
+        const builder = getBuilder(url)
         const title = getTitle(url)
-        const buymeacoffee = getBuyMeACoffee(buildername)
-        document.getElementById("videoTitle").textContent = `${buildername} tries ${title}`
-
-        
-        if (buymeacoffee) {
-            document.getElementById("buyMeACoffee").style.display = "block"
-            document.getElementById("buyMeACoffee").href = buymeacoffee
-        } else document.getElementById("buyMeACoffee").style.display = "none"
+        document.getElementById("videoTitle").textContent = `${builder.buildername} tries ${title}`
+        let social = "youtube twitter gits instagram homepage".split(" ")
+        let socialUrl
+        let socialTitle
+        social.some(name => {
+            let url = builder[name]
+            if (url) {
+                socialUrl = url
+                socialTitle = name
+                return true
+            }
+        })
+        document.getElementById("social").href = socialUrl
+        document.getElementById("social").innerHTML = socialTitle
     }
     function closeModal() {
         document.getElementById("videoModal").style.display = "none"

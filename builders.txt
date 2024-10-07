@@ -1,7 +1,7 @@
 Builders
 ========
 buildername,name,links
-breck,Breck Yunits,"email twitter buymeacoffee homepage gits youtube"
+breck,Breck Yunits,"email twitter homepage gits youtube"
 steph,Stephanie Rania,"email twitter instagram"
 nm,Namanyay Goel,"email homepage gits"
 hassam,Hassam Alhajaji,"email gits"
