@@ -4,6 +4,12 @@ tries.parsers
 
 // New tries go up top
 
+url https://github.com/CapSoftware/Cap
+creation Cap
+try https://www.youtube.com/embed/KfL4yLixcGA?si=XKXlJZRiOp3ARasw
+date 10/06/2024
+buildername breck
+
 url https://docs.deno.com/api/node/
 creation Deno Documentation
 try https://www.youtube.com/embed/VGAVtvGBD1s?si=sNNPDRM_sydmxykr
