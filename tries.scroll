@@ -2,7 +2,7 @@ buildConcepts tries.csv tries.json tries.tsv
 
 tries.parsers
 
-// New tries go up top
+// Put new tries up top
 
 url https://lab.aizastudio.com/perfectpitch
 try https://www.youtube.com/embed/G4yu56_s0BI?si=kwPvz5Ge_swujLG2
