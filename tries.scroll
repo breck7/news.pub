@@ -4,6 +4,12 @@ tries.parsers
 
 // Put new tries up top
 
+url https://www.ranzey.com/generators/bart/index.html
+try https://www.youtube.com/embed/iHOdMWU5zmo?si=ko-NOFTZBJshdmYi
+date 10/10/2024
+creation Bart Simpson Chalkboard Generator
+buildername breck
+
 url https://bloombergbeta.com/
 try https://www.youtube.com/embed/2WXLMWqsyi0?si=8FMJvRHM4W-cqEJc
 date 10/10/2024
