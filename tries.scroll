@@ -4,6 +4,12 @@ tries.parsers
 
 // Put new tries up top
 
+url https://marknadal.com/
+try https://www.youtube.com/embed/DvX-PH0jFtw?si=z1aPxG0zx1ccg5Tb
+date 10/10/2024
+creation MarkNadal.com
+buildername breck
+
 url https://deno.com/2
 try https://www.youtube.com/embed/1jeg8QBZ8RE?si=Wf3CZiGC6phxEk8F
 date 10/10/2024
