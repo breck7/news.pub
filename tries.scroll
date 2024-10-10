@@ -4,6 +4,12 @@ tries.parsers
 
 // Put new tries up top
 
+url https://bloombergbeta.com/
+try https://www.youtube.com/embed/2WXLMWqsyi0?si=8FMJvRHM4W-cqEJc
+date 10/10/2024
+creation BloombergBeta.com
+buildername breck
+
 url https://marknadal.com/
 try https://www.youtube.com/embed/DvX-PH0jFtw?si=z1aPxG0zx1ccg5Tb
 date 10/10/2024
