@@ -4,6 +4,12 @@ tries.parsers
 
 // Put new tries up top
 
+url https://deno.com/2
+try https://www.youtube.com/embed/1jeg8QBZ8RE?si=Wf3CZiGC6phxEk8F
+date 10/10/2024
+creation Deno 2
+buildername breck
+
 url https://lab.aizastudio.com/perfectpitch
 try https://www.youtube.com/embed/G4yu56_s0BI?si=kwPvz5Ge_swujLG2
 date 10/10/2024
