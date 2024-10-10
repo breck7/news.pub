@@ -1,12 +1,13 @@
+description News for builders.
 title BuilderNews
 viewSourceUrl https://github.com/breck7/news.pub
-description News for builders.
+
 header.scroll
 
 tries.json
 builders.json
 
-<div class="container">
+container
 # BuilderNews
 ### Builders helping builders. Watch builders try your creations.
 table tries.csv
@@ -31,6 +32,4 @@ modal.html
 
 footer.scroll
 
-</div>
 tableSearch
-
