@@ -6,7 +6,7 @@ openGraphImage og.jpg
 
 metaTags
 homeButton
-viewSourceButton https://hub.scroll.pub/edit.html?folderName=news.pub
+viewSourceButton edit.html
 css
  .abstractIconButtonParser {z-index: 5;}
  .thumbnail {
