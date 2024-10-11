@@ -3,8 +3,8 @@ title BuilderNews
 
 header.scroll
 
-tries.json
-builders.json
+jsonScript tries.json
+jsonScript builders.json
 
 <div class="container">
 # BuilderNews
