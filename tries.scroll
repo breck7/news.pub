@@ -4,6 +4,12 @@ tries.parsers
 
 // Put new tries up top
 
+url https://www.rugu.dev/en/blog/plain-text/
+creation Reading "Lessons from Plain Text"
+try https://www.youtube.com/embed/rx7nv6R5Rww?si=tuR6lhGHbNW6BYUa
+date 10/13/2024
+buildername breck
+
 url https://github.com/feelamee/sso
 creation Small String Optimizer
 try https://www.youtube.com/embed/tQXoCbUhWOQ?si=Zc-Uo4pF6QaX2hyV
