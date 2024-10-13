@@ -4,6 +4,12 @@ tries.parsers
 
 // Put new tries up top
 
+url https://filtergrade.com/
+try https://www.youtube.com/embed/HWVEt_XlnBY?si=lkICiwY_G07UBvil
+date 10/11/2024
+creation FilterGrade
+buildername breck
+
 url https://htmlforpeople.com/
 try https://www.youtube.com/embed/j_A2egmsT0g?si=0iamrS9dDK2OCGAr
 date 10/11/2024
