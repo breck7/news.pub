@@ -6,7 +6,7 @@ tries.parsers
 
 url https://omniscience.tech/
 creation OmniScience
-try https://www.youtube.com/watch?v=jtiyMkJ_Nwc
+try https://www.youtube.com/embed/jtiyMkJ_Nwc?si=4ss14nGCrpY_NcZt
 date 10/13/2024
 buildername breck
 
