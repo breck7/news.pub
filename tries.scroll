@@ -4,6 +4,12 @@ tries.parsers
 
 // Put new tries up top
 
+url https://cartesia.ai/
+creation Cartesia.AI Voice Generator
+try https://www.youtube.com/embed/unqBYZcMBQ0?si=LF35TJ3FfIHU4y9v
+date 10/12/2024
+buildername breck
+
 url https://spectrum-visualizer-demo.vercel.app/
 creation Spectrum Visualizer
 try https://www.youtube.com/embed/NOFJl6h3BuM?si=ICHPvXrGr2QglDvv
