@@ -4,6 +4,12 @@ tries.parsers
 
 // Put new tries up top
 
+url https://www.mycheekybot.com/
+creation MyCheekyBot
+try https://www.youtube.com/embed/bHPDOTg99_E?si=7PM0HvpuRUbyBr4D
+date 10/12/2024
+buildername breck
+
 url https://www.coffeespace.com/
 creation CoffeeSpace Cofounder Matching
 try https://www.youtube.com/embed/JTfd4uFZpi0?si=aGpEz6bLBBFy-v1a
