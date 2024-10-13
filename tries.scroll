@@ -4,6 +4,12 @@ tries.parsers
 
 // Put new tries up top
 
+url https://htmlforpeople.com/
+try https://www.youtube.com/embed/j_A2egmsT0g?si=0iamrS9dDK2OCGAr
+date 10/11/2024
+creation HTML for people
+buildername breck
+
 url https://embra.ai/
 try https://www.youtube.com/embed/ykRLDxklAlg?si=flUSfi68qPwINrXs
 date 10/12/2024
