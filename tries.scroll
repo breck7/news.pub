@@ -4,6 +4,12 @@ tries.parsers
 
 // Put new tries up top
 
+url https://www.lans.app/
+try https://www.youtube.com/embed/o5z5hdZfUGc?si=1dDAZN-Q-gzqMCvE
+date 10/12/2024
+creation LANS
+buildername breck
+
 url https://www.ranzey.com/generators/bart/index.html
 try https://www.youtube.com/embed/iHOdMWU5zmo?si=ko-NOFTZBJshdmYi
 date 10/10/2024

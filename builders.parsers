@@ -1,5 +1,5 @@
 buildernameParser
- crux buildername
+ cue buildername
  extends abstractIdParser
  description What is your builder name?
  atoms anyAtom
@@ -19,5 +19,5 @@ gitsParser
 instagramParser
  extends abstractUrlMeasureParser
 newsYoutubeParser
- crux youtube
+ cue youtube
  extends abstractUrlMeasureParser
