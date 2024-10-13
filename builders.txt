@@ -6,8 +6,9 @@ steph,Stephanie Rania,"email twitter instagram"
 nm,Namanyay Goel,"email homepage gits"
 hassam,Hassam Alhajaji,"email gits"
 
-Home | Builders | Join | Add Try
+Home | Builders | Join | Add Try | JSON
  /index.html Home
  /builders.html Builders
  https://hub.scroll.pub/edit.html?folderName=news.pub&fileName=builders.scroll Join
  https://hub.scroll.pub/edit.html?folderName=news.pub&fileName=tries.scroll Add Try
+ /tries.json JSON
