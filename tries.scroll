@@ -4,6 +4,12 @@ tries.parsers
 
 // Put new tries up top
 
+url https://embra.ai/
+try https://www.youtube.com/embed/ykRLDxklAlg?si=flUSfi68qPwINrXs
+date 10/12/2024
+creation Embra AI
+buildername breck
+
 url https://www.lans.app/
 try https://www.youtube.com/embed/o5z5hdZfUGc?si=1dDAZN-Q-gzqMCvE
 date 10/12/2024
