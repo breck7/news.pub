@@ -4,6 +4,12 @@ tries.parsers
 
 // Put new tries up top
 
+url https://omniscience.tech/
+creation OmniScience
+try https://www.youtube.com/watch?v=jtiyMkJ_Nwc
+date 10/13/2024
+buildername breck
+
 url https://www.rugu.dev/en/blog/plain-text/
 creation Reading "Lessons from Plain Text"
 try https://www.youtube.com/embed/rx7nv6R5Rww?si=tuR6lhGHbNW6BYUa
