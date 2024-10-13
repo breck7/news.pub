@@ -9,5 +9,5 @@ hassam,Hassam Alhajaji,"email gits"
 Home | Builders | Join | Add Try
  /index.html Home
  /builders.html Builders
- https://github.com/breck7/news.pub/edit/main/builders.scroll Join
- https://github.com/breck7/news.pub/edit/main/tries.scroll Add Try
+ https://hub.scroll.pub/edit.html?folderName=news.pub&fileName=builders.scroll Join
+ https://hub.scroll.pub/edit.html?folderName=news.pub&fileName=tries.scroll Add Try

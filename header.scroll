@@ -1,11 +1,12 @@
 importOnly
-metaTags
-buildTxt
 buildHtml
-homeButton
-viewSourceButton
-openGraphImage og.jpg
+buildTxt
 favicon favicon.ico
+openGraphImage og.jpg
+
+metaTags
+homeButton
+viewSourceButton edit.html
 css
  .abstractIconButtonParser {z-index: 5;}
  .thumbnail {

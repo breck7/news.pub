@@ -19,7 +19,7 @@ rankParser
   computeValue(concept, name, parsedProgram) {
     if (!Particle.ranks) {
       Particle.ranks = {}
-      const urls = parsedProgram.topDownArray.filter(particle  => particle.firstAtom === "url").map(particle => particle.content)
+      const urls = parsedProgram.topDownArray.filter(particle  => particle.cue === "url").map(particle => particle.content)
       urls.forEach(url => {
         if (!Particle.ranks[url])
          Particle.ranks[url] = {url, count: 0}
@@ -34,7 +34,7 @@ rankParser
   }
 
 triesDateParser
- crux date
+ cue date
  extends abstractStringMeasureParser
  float sortIndex 1.4
  description When did they try?
