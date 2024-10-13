@@ -4,6 +4,14 @@ tries.parsers
 
 // Put new tries up top
 
+url https://wordware.ai/
+creation Wordware AI
+try https://www.youtube.com/embed/eK9v6nr8sxA?si=gbvvrhARpyxb9_cX
+date 10/13/2024
+buildername breck
+
+https://www.youtube.com/embed/eK9v6nr8sxA?si=SyIV3WduxIjYsMsW
+
 url https://omniscience.tech/
 creation OmniScience
 try https://www.youtube.com/embed/jtiyMkJ_Nwc?si=4ss14nGCrpY_NcZt
