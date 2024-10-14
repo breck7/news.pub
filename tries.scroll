@@ -4,6 +4,12 @@ tries.parsers
 
 // Put new tries up top
 
+url https://www.outspeed.com/
+creation Outspeed AI
+try https://www.youtube.com/embed/BzrTyXGT99o?si=6DfOAqd9QokawFMZ
+date 10/13/2024
+buildername breck
+
 url https://wordware.ai/
 creation Wordware AI
 try https://www.youtube.com/embed/eK9v6nr8sxA?si=gbvvrhARpyxb9_cX
