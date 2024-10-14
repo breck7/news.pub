@@ -4,6 +4,12 @@ tries.parsers
 
 // Put new tries up top
 
+url https://developers.zoom.us/docs/api/
+creation Zoom API
+try https://www.youtube.com/embed/Jt8iRz7phJs?si=Ne2HZzxXLiuMl4df
+date 10/13/2024
+buildername breck
+
 url https://www.outspeed.com/
 creation Outspeed AI
 try https://www.youtube.com/embed/BzrTyXGT99o?si=6DfOAqd9QokawFMZ
