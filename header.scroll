@@ -1,4 +1,5 @@
 importOnly
+baseUrl https://news.pub.
 buildHtml
 buildTxt
 favicon favicon.ico
