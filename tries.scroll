@@ -4,6 +4,12 @@ tries.parsers
 
 // Put new tries up top
 
+url https://goglobal.world
+creation Go Global World
+try https://www.youtube.com/embed/Sme7XyjpvJI?si=iikUUp0HhCkBok63
+date 10/15/2024
+buildername breck
+
 url https://dingboard.com
 creation Dingboard
 try https://www.youtube.com/embed/cgkwMV26eOE?si=GOijQjix6Cvb3Wpb
