@@ -4,6 +4,12 @@ tries.parsers
 
 // Put new tries up top
 
+url https://airtable.com/
+creation Airtable
+try https://www.loom.com/embed/9322b62f57814403844d29147811ac8e?sid=b018e721-287d-44c8-85fe-3a20f82d66fa
+date 10/16/2024
+buildername breck
+
 url https://floss.fund/blog/announcing-floss-fund/
 creation The FLOSS Fund
 try https://www.youtube.com/embed/4BH8DRXwVRw?si=kejHy1r-cIzzv6XP
