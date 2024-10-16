@@ -139,10 +139,10 @@
     if (theTry) {
       openModal(theTry);
     }
-    const thing = urlParams.get("what");
-    if (thing) {
-      const url = window.tries.find((item) => item.url.includes(thing));
-      openModal(url);
+    const query = urlParams.get("q");
+    if (query) {
+      const hit = window.tries.find((item) => item.url.includes(query));
+      openModal(hit.try);
     }
   }
   // Event listener for DOMContentLoaded
