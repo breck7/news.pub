@@ -4,6 +4,12 @@ tries.parsers
 
 // Put new tries up top
 
+url https://floss.fund/blog/announcing-floss-fund/
+creation The FLOSS Fund
+try https://www.youtube.com/embed/4BH8DRXwVRw?si=kejHy1r-cIzzv6XP
+date 10/16/2024
+buildername breck
+
 url https://aisearchwatch.com/demo/YCombinator/2024-10-09-v1-4dc5370a2e9cbd7b/competitors/index.html
 creation AISearchWatch.com
 try https://www.loom.com/embed/4f11ab7349854fc6b8e77209d50e2d80?sid=76066538-30ea-4e48-bbb8-cbfb6c83c138
