@@ -4,6 +4,12 @@ tries.parsers
 
 // Put new tries up top
 
+url https://aisearchwatch.com/demo/YCombinator/2024-10-09-v1-4dc5370a2e9cbd7b/competitors/index.html
+creation AISearchWatch.com
+try https://www.loom.com/embed/4f11ab7349854fc6b8e77209d50e2d80?sid=76066538-30ea-4e48-bbb8-cbfb6c83c138
+date 10/15/2024
+buildername breck
+
 url https://founderpal.ai/elevator-pitch-generator
 creation Elevator Pitch Generator
 try https://www.loom.com/embed/39ac6fb72b974ad0b1663cd4db81230d?sid=c4648a34-61a0-4e19-ad83-e8e650d08a92
