@@ -1,139 +1,147 @@
 <style>
-    .video-title {
-        text-align: center;
-        margin-bottom: 10px;
-        font-weight: bold;
-    }
-    .modal {
-        display: none;
-        position: fixed;
-        z-index: 2;
-        left: 0;
-        top: 0;
-        width: 100%;
-        height: 100%;
-        overflow: auto;
-        background-color: rgba(0, 0, 0, 0.8);
-    }
-    .modal-content {
-        background-color: black;
-        margin: 10% auto;
-        padding: 20px;
-        width: 80%;
-        max-width: 700px;
-    }
-    .close {
-        color: #aaa;
-        float: right;
-        font-size: 28px;
-        font-weight: bold;
-        cursor: pointer;
-    }
-    .close:hover,
-    .close:focus {
-        color: #000;
-        text-decoration: none;
-        cursor: pointer;
-    }
-    .video-container {
-        position: relative;
-        padding-bottom: 56.25%;
-        padding-top: 30px;
-        height: 0;
-        overflow: hidden;
-    }
-    .video-container iframe {
-        position: absolute;
-        top: 0;
-        left: 0;
-        width: 100%;
-        height: 100%;
-    }
-    .social {
-        text-align: center;
-        margin-top: 20px;
-    }
-    .social a {
-        display: inline-block;
-        padding: 10px 20px;
-        background-color: #ffdd00;
-        color: #000000;
-        text-decoration: none;
-        border-radius: 5px;
-        font-weight: bold;
-    }
-    .social a:hover {
-        background-color: #ffea00;
-    }
+  .video-title {
+    text-align: center;
+    margin-bottom: 10px;
+    font-weight: bold;
+  }
+  .modal {
+    display: none;
+    position: fixed;
+    z-index: 2;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    overflow: auto;
+    background-color: rgba(0, 0, 0, 0.8);
+  }
+  .modal-content {
+    background-color: black;
+    margin: 10% auto;
+    padding: 20px;
+    width: 80%;
+    max-width: 700px;
+  }
+  .close {
+    color: #aaa;
+    float: right;
+    font-size: 28px;
+    font-weight: bold;
+    cursor: pointer;
+  }
+  .close:hover,
+  .close:focus {
+    color: #000;
+    text-decoration: none;
+    cursor: pointer;
+  }
+  .video-container {
+    position: relative;
+    padding-bottom: 56.25%;
+    padding-top: 30px;
+    height: 0;
+    overflow: hidden;
+  }
+  .video-container iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+  }
+  .social {
+    text-align: center;
+    margin-top: 20px;
+  }
+  .social a {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #ffdd00;
+    color: #000000;
+    text-decoration: none;
+    border-radius: 5px;
+    font-weight: bold;
+  }
+  .social a:hover {
+    background-color: #ffea00;
+  }
 </style>
 <div id="videoModal" class="modal">
-    <div class="modal-content">
-        <span class="close" onclick="closeModal()">&times;</span>
-        <div class="video-title" id="videoTitle">breck tries x</div>
-        <div class="video-container">
-            <iframe
-                id="theVideo"
-                frameborder="0"
-                webkitallowfullscreen
-                mozallowfullscreen
-                allowfullscreen
-            ></iframe>
-        </div>
-        <div class="social">
-            <a id="social" target="_social"></a>
-        </div>
+  <div class="modal-content">
+    <span class="close" onclick="closeModal()">&times;</span>
+    <div class="video-title" id="videoTitle">breck tries x</div>
+    <div class="video-container">
+      <iframe
+        id="theVideo"
+        frameborder="0"
+        webkitallowfullscreen
+        mozallowfullscreen
+        allowfullscreen
+      ></iframe>
     </div>
+    <div class="social">
+      <a id="social" target="_social"></a>
+    </div>
+  </div>
 </div>
 <script>
-    const getBuilder = (tryUrl) => {
-        const match = window.tries.find((item) => item.try === tryUrl)
-        return window.builders.find((item) => item.buildername === match.buildername)
+  const getBuilder = (tryUrl) => {
+    const match = window.tries.find((item) => item.try === tryUrl);
+    return window.builders.find(
+      (item) => item.buildername === match.buildername,
+    );
+  };
+  const getTitle = (tryUrl) =>
+    window.tries.find((item) => item.try === tryUrl)?.creation;
+  function openModal(url) {
+    if (!url.includes("embed")) {
+      // if the url doesnt include embed, just go to site.
+      window.location = url;
+      return true;
     }
-    const getTitle = (tryUrl) =>
-        window.tries.find((item) => item.try === tryUrl)?.creation
-    function openModal(url) {
-        if (!url.includes("embed")) {
-            // if the url doesnt include embed, just go to site.
-            window.location = url
-            return true
-        }
 
-        document.getElementById("theVideo").src = url
-        document.getElementById("videoModal").style.display = "block"
-        const builder = getBuilder(url)
-        const title = getTitle(url)
-        document.getElementById("videoTitle").textContent = `${builder.buildername} tries ${title}`
-        let social = "youtube twitter gits instagram homepage".split(" ")
-        let socialUrl
-        let socialTitle
-        social.some(name => {
-            let url = builder[name]
-            if (url) {
-                socialUrl = url
-                socialTitle = name
-                return true
-            }
-        })
-        document.getElementById("social").href = socialUrl
-        document.getElementById("social").innerHTML = "follow me on " + socialTitle
+    document.getElementById("theVideo").src = url;
+    document.getElementById("videoModal").style.display = "block";
+    const builder = getBuilder(url);
+    const title = getTitle(url);
+    document.getElementById("videoTitle").textContent =
+      `${builder.buildername} tries ${title}`;
+    let social = "youtube twitter gits instagram homepage".split(" ");
+    let socialUrl;
+    let socialTitle;
+    social.some((name) => {
+      let url = builder[name];
+      if (url) {
+        socialUrl = url;
+        socialTitle = name;
+        return true;
+      }
+    });
+    document.getElementById("social").href = socialUrl;
+    document.getElementById("social").innerHTML = "follow me on " + socialTitle;
+  }
+  function closeModal() {
+    document.getElementById("videoModal").style.display = "none";
+    document.getElementById("theVideo").src = "";
+  }
+  // Event listener for closing modal when clicking outside
+  window.addEventListener("click", function (event) {
+    if (event.target == document.getElementById("videoModal")) {
+      closeModal();
     }
-    function closeModal() {
-        document.getElementById("videoModal").style.display = "none"
-        document.getElementById("theVideo").src = ""
+  });
+  function checkUrlAndOpenModal() {
+    const urlParams = new URL(window.location.href).searchParams;
+    const theTry = urlParams.get("try");
+    if (theTry) {
+      openModal(theTry);
     }
-    // Event listener for closing modal when clicking outside
-    window.addEventListener("click", function (event) {
-        if (event.target == document.getElementById("videoModal")) {
-            closeModal()
-        }
-    })
-    function checkUrlAndOpenModal() {
-        const urlParams = new URL(window.location.href).searchParams
-        const theTry = urlParams.get("try")
-        if (theTry) {
-            openModal(theTry)
-        }
+    const thing = urlParams.get("what");
+    if (thing) {
+      const url = window.tries.find((item) => item.url.includes(thing));
+      openModal(url);
     }
-    // Event listener for DOMContentLoaded
-    document.addEventListener("DOMContentLoaded", checkUrlAndOpenModal)
+  }
+  // Event listener for DOMContentLoaded
+  document.addEventListener("DOMContentLoaded", checkUrlAndOpenModal);
 </script>
