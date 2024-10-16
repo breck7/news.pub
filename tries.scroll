@@ -4,6 +4,12 @@ tries.parsers
 
 // Put new tries up top
 
+url https://readtxt.in
+creation Readtxt.in
+try https://www.loom.com/embed/cf58f667a2314350bd32e40a0d206c35?sid=3dcc2923-4334-4c95-95af-6b91a064ac26
+date 10/15/2024
+buildername breck
+
 url https://www.moneyisfunny.co/
 creation Money is Funny Tech Pitch Roast Show
 try https://www.youtube.com/embed/StZ3T3HX8fE?si=vjOLCNasINsJw3bS
