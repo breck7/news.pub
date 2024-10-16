@@ -95,10 +95,13 @@
     window.tries.find((item) => item.try === tryUrl)?.creation;
   function openModal(url) {
     if (!url.includes("embed")) {
-      // if the url doesnt include embed, just go to site.
+      // if the url doesn't include embed, just go to site.
       window.location = url;
       return true;
     }
+
+    // Replace the current URL without adding to history
+    window.history.replaceState(null, "", `?try=${url}`);
 
     document.getElementById("theVideo").src = url;
     document.getElementById("videoModal").style.display = "block";
