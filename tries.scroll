@@ -4,6 +4,12 @@ tries.parsers
 
 // Put new tries up top
 
+url https://founderpal.ai/elevator-pitch-generator
+creation Elevator Pitch Generator
+try https://www.loom.com/embed/39ac6fb72b974ad0b1663cd4db81230d?sid=c4648a34-61a0-4e19-ad83-e8e650d08a92
+date 10/15/2024
+buildername breck
+
 url https://readtxt.in
 creation Readtxt.in
 try https://www.loom.com/embed/cf58f667a2314350bd32e40a0d206c35?sid=3dcc2923-4334-4c95-95af-6b91a064ac26
