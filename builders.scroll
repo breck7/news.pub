@@ -1,9 +1,26 @@
 builders.parsers
 
-buildername Bardic
-name Bardic Makes
-email none
-youtube
-twitter https://x.com/bardicmakes
-homepage
-gits
+buildername breck
+email breck7@gmail.com
+name Breck Yunits
+youtube https://www.youtube.com/@breckyunits
+twitter https://x.com/breckyunits
+homepage https://breckyunits.com
+gits https://github.com/breck7
+
+buildername steph
+email slrania@gmail.com
+name Stephanie Rania
+twitter https://x.com/ballotshaker
+instagram https://instagram.com/ballotshaker
+
+buildername nm
+email hi@nmn.gl
+name Namanyay Goel
+homepage https://nmn.gl/
+gits https://github.com/namanyayg
+
+buildername hassam
+name Hassam Alhajaji
+email hassam.alhajaji@gmail.com
+gits https://github.com/hassamalhajaji
