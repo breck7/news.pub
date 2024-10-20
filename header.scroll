@@ -7,7 +7,7 @@ openGraphImage og.jpg
 
 metaTags
 homeButton
-viewSourceButton edit.html
+editButton edit.html
 css
  .abstractIconButtonParser {z-index: 5;}
  .thumbnail {
