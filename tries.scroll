@@ -4,6 +4,12 @@ tries.parsers
 
 // Put new tries up top
 
+url https://foundersfund.com
+creation FoundersFund.com
+try https://www.youtube.com/embed/6Orxo69B5bE?si=8EGKo6XbK7cwvxA-
+date 10/20/2024
+buildername breck
+
 url https://a16z.com
 creation a16z.com
 try https://www.youtube.com/embed/O_wPL9atrJs?si=d1viIqwoIrGoMnnk
