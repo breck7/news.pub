@@ -4,6 +4,12 @@ tries.parsers
 
 // Put new tries up top
 
+url https://samtxt.samrawal.com/
+creation sam.txt
+try https://www.youtube.com/embed/qh2mq0KJMsw?si=K3eoDPngkYKkQg6l
+date 10/20/2024
+buildername breck
+
 url https://foundersfund.com
 creation FoundersFund.com
 try https://www.youtube.com/embed/6Orxo69B5bE?si=8EGKo6XbK7cwvxA-
@@ -87,8 +93,6 @@ creation Wordware AI
 try https://www.youtube.com/embed/eK9v6nr8sxA?si=gbvvrhARpyxb9_cX
 date 10/13/2024
 buildername breck
-
-https://www.youtube.com/embed/eK9v6nr8sxA?si=SyIV3WduxIjYsMsW
 
 url https://omniscience.tech/
 creation OmniScience
