@@ -4,6 +4,12 @@ tries.parsers
 
 // Put new tries up top
 
+url https://hnup.date/
+creation HN Update
+try https://www.loom.com/embed/9e8b8d454ee14873883b4e5e1cca9579?sid=a73ce53c-bef9-4897-b72e-5b7eafa946e3
+date 10/20/2024
+buildername breck
+
 url https://samtxt.samrawal.com/
 creation sam.txt
 try https://www.youtube.com/embed/qh2mq0KJMsw?si=K3eoDPngkYKkQg6l
