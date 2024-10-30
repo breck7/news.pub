@@ -15,36 +15,17 @@ Calm
 Nature
 Decentralized
 
-
-
-A fast casual site where builders share links, chat with each other, share builder tests, 
-
-
+A fast casual site where builders share links, chat with each other, share builder tests,
 
 Admins in beginning.
 
-
 builders
-
-
 
 // breck.scroll
 // https://github.com/breck7/news.scroll
-
 
 cron job.
 updates every hour to start.
 - fetch all sites
 - build scroll set
 - show table
-
-
-
-
-
-
-
-
-
-
-
