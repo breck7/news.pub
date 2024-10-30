@@ -8,7 +8,7 @@ tries.parsers
 
 url x.com
 creation x text
-try https://youtube.com/shorts/RFCE7fo7kOM?feature=share
+try https://youtube.com/shorts/RFCE7fo7kOM
 date 10/30/2024
 buildername bardic
 
