@@ -5,11 +5,20 @@ tries.parsers
 // Put new tries up top
 
 
+url https://git-roasted.com/
+creation GitRoasted
+try https://www.youtube.com/embed/a5A2sEB4SUc?si=a-76Eg0LPPyqk8rh
+date 10/31/2024
+buildername breck
+
+
+
 url https://www.shotscout.org
 creation ShotScout
 try https://www.loom.com/embed/4637f9ef19fd42f8b05223d23123f3fe?sid=d59d04b2-5629-472c-bcd1-3870ae165061
 date 10/31/2024
 buildername breck
+
 
 
 
@@ -21,11 +30,13 @@ buildername breck
 
 
 
+
 url x.com
 creation test
 try https://youtube.com/shorts/RFCE7fo7kOM
 date 10/30/2024
 buildername bardic
+
 
 
 
@@ -37,11 +48,13 @@ buildername breck
 
 
 
+
 url https://aquaware.cloud/
 creation Aquaware
 try https://www.loom.com/embed/3e0de3dc94a748eca18e3ae31c1cbd08?sid=0c974770-da4a-4cde-be3a-423146438f4e
 date 10/28/2024
 buildername breck
+
 
 
 
@@ -53,11 +66,13 @@ buildername breck
 
 
 
+
 url https://corevalueswizard.com/
 creation Core Values Wizard
 try https://www.youtube.com/embed/5MsTLTod-sk?si=1GBBPNaApL1N3wFn
 date 10/27/2024
 buildername breck
+
 
 
 
@@ -69,11 +84,13 @@ buildername breck
 
 
 
+
 url https://cornhub.website/
 creation Cornhub
 try https://www.youtube.com/watch?v=AG4rkpdmBMM
 date 10/25/2024
 buildername breck
+
 
 
 
@@ -85,11 +102,13 @@ buildername breck
 
 
 
+
 url https://samtxt.samrawal.com/
 creation sam.txt
 try https://www.youtube.com/embed/qh2mq0KJMsw?si=K3eoDPngkYKkQg6l
 date 10/20/2024
 buildername breck
+
 
 
 
@@ -101,11 +120,13 @@ buildername breck
 
 
 
+
 url https://a16z.com
 creation a16z.com
 try https://www.youtube.com/embed/O_wPL9atrJs?si=d1viIqwoIrGoMnnk
 date 10/20/2024
 buildername breck
+
 
 
 
@@ -117,11 +138,13 @@ buildername breck
 
 
 
+
 url https://airtable.com/
 creation Airtable
 try https://www.loom.com/embed/9322b62f57814403844d29147811ac8e?sid=b018e721-287d-44c8-85fe-3a20f82d66fa
 date 10/16/2024
 buildername breck
+
 
 
 
@@ -133,11 +156,13 @@ buildername breck
 
 
 
+
 url https://aisearchwatch.com/demo/YCombinator/2024-10-09-v1-4dc5370a2e9cbd7b/competitors/index.html
 creation AISearchWatch.com
 try https://www.loom.com/embed/4f11ab7349854fc6b8e77209d50e2d80?sid=76066538-30ea-4e48-bbb8-cbfb6c83c138
 date 10/15/2024
 buildername breck
+
 
 
 
@@ -149,11 +174,13 @@ buildername breck
 
 
 
+
 url https://readtxt.in
 creation Readtxt.in
 try https://www.loom.com/embed/cf58f667a2314350bd32e40a0d206c35?sid=3dcc2923-4334-4c95-95af-6b91a064ac26
 date 10/15/2024
 buildername breck
+
 
 
 
@@ -165,11 +192,13 @@ buildername breck
 
 
 
+
 url https://goglobal.world
 creation Go Global World
 try https://www.youtube.com/embed/Sme7XyjpvJI?si=iikUUp0HhCkBok63
 date 10/15/2024
 buildername breck
+
 
 
 
@@ -181,11 +210,13 @@ buildername breck
 
 
 
+
 url https://developers.zoom.us/docs/api/
 creation Zoom API
 try https://www.youtube.com/embed/Jt8iRz7phJs?si=Ne2HZzxXLiuMl4df
 date 10/13/2024
 buildername breck
+
 
 
 
@@ -197,11 +228,13 @@ buildername breck
 
 
 
+
 url https://wordware.ai/
 creation Wordware AI
 try https://www.youtube.com/embed/eK9v6nr8sxA?si=gbvvrhARpyxb9_cX
 date 10/13/2024
 buildername breck
+
 
 
 
@@ -213,11 +246,13 @@ buildername breck
 
 
 
+
 url https://www.rugu.dev/en/blog/plain-text/
 creation Reading "Lessons from Plain Text"
 try https://www.youtube.com/embed/rx7nv6R5Rww?si=tuR6lhGHbNW6BYUa
 date 10/13/2024
 buildername breck
+
 
 
 
@@ -229,11 +264,13 @@ buildername breck
 
 
 
+
 url https://www.mycheekybot.com/
 creation MyCheekyBot
 try https://www.youtube.com/embed/bHPDOTg99_E?si=7PM0HvpuRUbyBr4D
 date 10/12/2024
 buildername breck
+
 
 
 
@@ -245,11 +282,13 @@ buildername breck
 
 
 
+
 url https://cartesia.ai/
 creation Cartesia.AI Voice Generator
 try https://www.youtube.com/embed/unqBYZcMBQ0?si=LF35TJ3FfIHU4y9v
 date 10/12/2024
 buildername breck
+
 
 
 
@@ -261,11 +300,13 @@ buildername breck
 
 
 
+
 url https://indexely.com/
 creation Indexely Website Monitoring
 try https://www.youtube.com/embed/vxdaWsO8V4M?si=3zHAVkl9a8HU7Z9Z
 date 10/12/2024
 buildername breck
+
 
 
 
@@ -277,11 +318,13 @@ buildername breck
 
 
 
+
 url https://filtergrade.com/
 creation FilterGrade
 try https://www.youtube.com/embed/HWVEt_XlnBY?si=lkICiwY_G07UBvil
 date 10/11/2024
 buildername breck
+
 
 
 
@@ -293,11 +336,13 @@ buildername breck
 
 
 
+
 url https://embra.ai/
 creation Embra AI
 try https://www.youtube.com/embed/ykRLDxklAlg?si=flUSfi68qPwINrXs
 date 10/12/2024
 buildername breck
+
 
 
 
@@ -309,11 +354,13 @@ buildername breck
 
 
 
+
 url https://www.ranzey.com/generators/bart/index.html
 creation Bart Simpson Chalkboard Generator
 try https://www.youtube.com/embed/iHOdMWU5zmo?si=ko-NOFTZBJshdmYi
 date 10/10/2024
 buildername breck
+
 
 
 
@@ -325,11 +372,13 @@ buildername breck
 
 
 
+
 url https://marknadal.com/
 creation MarkNadal.com
 try https://www.youtube.com/embed/DvX-PH0jFtw?si=z1aPxG0zx1ccg5Tb
 date 10/10/2024
 buildername breck
+
 
 
 
@@ -341,11 +390,13 @@ buildername breck
 
 
 
+
 url https://lab.aizastudio.com/perfectpitch
 creation Perfect Pitch
 try https://www.youtube.com/embed/G4yu56_s0BI?si=kwPvz5Ge_swujLG2
 date 10/10/2024
 buildername breck
+
 
 
 
@@ -357,11 +408,13 @@ buildername breck
 
 
 
+
 url https://docs.deno.com/api/node/
 creation Deno Documentation
 try https://www.youtube.com/embed/VGAVtvGBD1s?si=sNNPDRM_sydmxykr
 date 10/05/2024
 buildername breck
+
 
 
 
@@ -373,11 +426,13 @@ buildername breck
 
 
 
+
 url https://twocents.site/
 creation TwoCents.site
 try https://www.loom.com/embed/c8430de282694defa75ae041ae3ee74a?sid=4c3ff203-38b3-4549-b644-4d634d49e644
 date 10/05/2024
 buildername breck
+
 
 
 
@@ -389,11 +444,13 @@ buildername breck
 
 
 
+
 url https://www.operatingsystem.io/
 creation OperatingSystem.io
 try https://www.youtube.com/embed/QQz8mkYQ41I?si=TWiI8bvzx3yOQiGQ
 date 10/05/2024
 buildername breck
+
 
 
 
@@ -405,11 +462,13 @@ buildername breck
 
 
 
+
 url https://ghost.org/
 creation Ghost
 try https://www.youtube.com/embed/3MzPwY6kotU?si=7eJTprFu-sjb8lsd
 date 10/05/2024
 buildername breck
+
 
 
 
@@ -421,11 +480,13 @@ buildername breck
 
 
 
+
 url https://chat.openai.com/
 creation ChatGPT Canvas
 try https://www.youtube.com/embed/jx9LVsryC50?si=P0ye-01HlgLJcJvy
 date 10/03/2024
 buildername breck
+
 
 
 
@@ -437,11 +498,13 @@ buildername breck
 
 
 
+
 url https://www.trykeet.com
 creation Keet
 try https://www.loom.com/embed/d92ed08b415b4cc3a36f83eed045fd25?sid=4f81a4ec-60c7-4e1f-86ca-c453c38aabe3
 date 10/02/2024
 buildername breck
+
 
 
 
@@ -453,11 +516,13 @@ buildername breck
 
 
 
+
 url https://coworkcoffee.com
 creation Cowork Coffee
 try https://www.youtube.com/embed/ItNfgj0ADI4?si=Q2WihMUNTM_2A2fw
 date 10/01/2024
 buildername breck
+
 
 
 
@@ -469,11 +534,13 @@ buildername breck
 
 
 
+
 url https://www.leahculver.com/
 creation LeahCulver.com
 try https://www.youtube.com/embed/6Wgsu4TxTdM?si=T46UPR0Mth-TKBIE
 date 10/01/2024
 buildername breck
+
 
 
 
@@ -485,11 +552,13 @@ buildername breck
 
 
 
+
 url https://humankind.place/
 creation Humankind Candles
 try https://www.youtube.com/embed/9YwbVUukq3k?si=7vEULRm1rTbZUO4z
 date 10/01/2024
 buildername breck
+
 
 
 
@@ -501,11 +570,13 @@ buildername breck
 
 
 
+
 url https://haystackeditor.com/
 creation Haystack
 try https://www.loom.com/embed/0f3a1d6c89ea4f289cf1a2ec3e6ebb77?sid=1c1f9fc9-d6ae-4fef-a2e5-578db7195917
 date 9/30/2024
 buildername breck
+
 
 
 
@@ -517,11 +588,13 @@ buildername breck
 
 
 
+
 url https://actionbase.co
 creation ActionBase
 try https://www.loom.com/embed/7560c4f4550143818731d4838d06138f?sid=e4f4f2bf-93dc-476c-b355-e0411e36aace
 date 9/30/2024
 buildername breck
+
 
 
 
@@ -533,11 +606,13 @@ buildername breck
 
 
 
+
 url https://infinilearn.com/
 creation Infinilearn
 try https://www.loom.com/embed/0b238e3db7f541b68d94fd4014c6ce14?sid=2df914b6-0f12-407c-9ad3-ae0150c6266b
 date 9/29/2024
 buildername breck
+
 
 
 
@@ -549,11 +624,13 @@ buildername breck
 
 
 
+
 url https://storia.ai/
 creation Storia AI
 try https://www.loom.com/embed/91eeeef1b3db437ea60418daa1aadf1a?sid=c446f795-2ace-4652-abd1-a4d84d361158
 date 9/28/2024
 buildername breck
+
 
 
 
@@ -565,11 +642,13 @@ buildername breck
 
 
 
+
 url https://chianglab.bio/2024/09/26/spatial-technologies-of-the-future/
 creation Spatial technologies of the future
 try https://www.loom.com/embed/d9ad5161724d494090576a927dc5fcb8?sid=c54f8003-5dbc-40ab-b353-455653132ffb
 date 9/27/2024
 buildername breck
+
 
 
 
@@ -581,11 +660,13 @@ buildername breck
 
 
 
+
 url https://www.arcade.ai/
 creation Arcade.ai: Turn your thoughts into things
 try https://www.youtube.com/embed/LEpmUSCdAEc?si=cOBug8LUp_yolQpN
 date 9/27/2024
 buildername breck
+
 
 
 
@@ -597,11 +678,13 @@ buildername breck
 
 
 
+
 url https://www.snowpilot.com/
 creation Snowpilot
 try https://www.loom.com/embed/d789de706c334cbfa4904ce862dfc46b?sid=ec558a6c-451a-4a92-89fa-ae2578129602
 date 9/26/2024
 buildername breck
+
 
 
 
@@ -613,11 +696,13 @@ buildername breck
 
 
 
+
 url https://launchgrid.blitlabs.com/
 creation Launchgrid – Explore Today's Launches Across Product Hunt and Show HN
 try https://www.loom.com/embed/60dd990025564138b206a13f80441e7f?sid=f4f03bce-05e9-4bdf-a84c-1c2bb3ed5442
 date 9/25/2024
 buildername breck
+
 
 
 
@@ -629,11 +714,13 @@ buildername breck
 
 
 
+
 url https://softwareengineeringhandbook.com/
 creation Software Engineering Handbook – A Guide to Engineering, Life, and More
 try https://www.loom.com/embed/9f59e3fc516c4a5fb7e82dcf02901104?sid=b1f3652c-a0ee-4a8d-b147-985b6eddab90
 date 9/25/2024
 buildername breck
+
 
 
 
@@ -645,11 +732,13 @@ buildername breck
 
 
 
+
 url https://supergrow.ai
 creation Supergrow: Grow your audience on LinkedIn
 try https://www.youtube.com/embed/qvAJnxqav1I?si=ZpSN3X2j0OO6CN2d
 date 9/24/2024
 buildername breck
+
 
 
 
@@ -661,11 +750,13 @@ buildername breck
 
 
 
+
 url https://github.com/torrentg/expr
 creation An expression parser supporting multiple types
 try https://www.youtube.com/embed/DS5MXJSGgHM?si=s0CMTFVwWg7oGuAm
 date 9/24/2024
 buildername breck
+
 
 
 
@@ -677,11 +768,13 @@ buildername breck
 
 
 
+
 url https://news.pub/
 creation BuilderNews
 try https://www.loom.com/share/9629c883f32b4fa58af29d7a43c3ba27?sid=b980cc28-b225-4e3e-8b3d-7790e376d88e
 date 9/23/2024
 buildername hassam
+
 
 
 
@@ -693,11 +786,13 @@ buildername breck
 
 
 
+
 url https://www.dictaphone.io/
 creation Transcribe Audio Files for Free in Seconds
 try https://www.youtube.com/embed/nbHNcJXNzkY?si=JN5f3sXUwsOwariZ
 date 9/23/2024
 buildername breck
+
 
 
 
@@ -709,11 +804,13 @@ buildername breck
 
 
 
+
 url https://ebookany.com/
 creation A tool to easily convert any web page into an eBook
 try https://www.youtube.com/embed/u2_r_44bg5c?si=5wBkAog7YyJ2nfAI
 date 9/22/2024
 buildername breck
+
 
 
 
@@ -725,11 +822,13 @@ buildername breck
 
 
 
+
 url https://jetup.io/exclusive/
 creation Real Senior Dev from $4.9/HR
 try https://www.youtube.com/embed/sKDvgvb7jC8?si=t7zQfsOLf2AU0RFs
 date 9/22/2024
 buildername breck
+
 
 
 
@@ -741,11 +840,13 @@ buildername steph
 
 
 
+
 url https://unswt.com/
 creation Unswt – Free AI Sugar Tracker Using Meal Photos
 try https://www.youtube.com/embed/XKD4U-OVpU0?si=jBXuguN5qr-zDq5o
 date 9/22/2024
 buildername breck
+
 
 
 
@@ -757,11 +858,13 @@ buildername breck
 
 
 
+
 url https://classysoftware.io/chat-analysis/
 creation A tool to analyze Hacker News sentiment on any term in seconds
 try https://www.youtube.com/embed/2eac5XZesgA?si=NDql-yhNEJIH6ykb
 date 9/22/2024
 buildername breck
+
 
 
 
@@ -773,11 +876,13 @@ buildername breck
 
 
 
+
 url https://laike9m.com/blog/no-one-builds-in-public,160/
 creation It's probably time to rethink "Building in public"
 try https://www.youtube.com/embed/10SIY3jEA6o?si=-6WwfJddlYvvy9Qk
 date 9/22/2024
 buildername breck
+
 
 
 
@@ -789,11 +894,13 @@ buildername steph
 
 
 
+
 url https://unswt.com/
 creation Unswt – Free AI Sugar Tracker Using Meal Photos
 try https://www.loom.com/embed/28059cba3a1045d0bfb20651d53c2f18?sid=72530eaf-0bda-4665-acfa-7c48131c08c5
 date 9/21/2024
 buildername steph
+
 
 
 
@@ -805,11 +912,13 @@ buildername steph
 
 
 
+
 url https://nuenki.app/
 creation Nuenki - Learn a language while you browse the web
 try https://www.loom.com/embed/e65c7323b3cd4f03a89ceb9f199c68b7?sid=5808f1f4-2ee4-49df-96cb-97b738f3053a
 date 9/21/2024
 buildername steph
+
 
 
 
@@ -821,11 +930,13 @@ buildername steph
 
 
 
+
 url https://youtubetranscriptoptimizer.com/
 creation YouTube Transcript Optimizer – Turn Videos into Polished Documents
 try https://www.loom.com/embed/b863ae3195d54f8cbe1c9931c8d96b0e?sid=11529b69-02c3-46cf-ae8f-346bb0c19f6b
 date 9/21/2024
 buildername breck
+
 
 
 
@@ -837,11 +948,13 @@ buildername breck
 
 
 
+
 url https://www.gamesinprogress.com/
 creation GamesInProgress – Discover and follow indie game developers
 try https://www.loom.com/embed/b6d3309dffe942c9bf5093b64323196d?sid=9148c264-4e0a-44f7-ba5f-0efcb00029d7
 date 9/21/2024
 buildername breck
+
 
 
 
@@ -853,11 +966,13 @@ buildername breck
 
 
 
+
 url https://hn-pm.me/login
 creation Private Messages for Hacker News Builders
 try https://www.loom.com/embed/064bd4b9865845e9a055f7138dfc1a3d?sid=6bf557aa-f9ba-48bd-a213-8820dd523cc2
 date 9/21/2024
 buildername breck
+
 
 
 
