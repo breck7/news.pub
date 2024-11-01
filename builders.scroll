@@ -1,10 +1,17 @@
 builders.parsers
 
+
+buildername jim
+name jim
+youtube https://www.youtube.com/@jamesoofou6723
+
+
 buildername bardic
 name bardic
 youtube https://www.youtube.com/@BardicReels
 twitter https://x.com/bardicmakes
 gits https://github.com/bardicreels
+
 
 buildername breck
 name Breck Yunits
@@ -14,17 +21,20 @@ twitter https://x.com/breckyunits
 homepage https://breckyunits.com
 gits https://github.com/breck7
 
+
 buildername steph
 name Stephanie Rania
 email slrania@gmail.com
 twitter https://x.com/ballotshaker
 instagram https://instagram.com/ballotshaker
 
+
 buildername nm
 name Namanyay Goel
 email hi@nmn.gl
 homepage https://nmn.gl/
 gits https://github.com/namanyayg
+
 
 buildername hassam
 name Hassam Alhajaji
