@@ -8,7 +8,7 @@ tries.parsers
 
 url https://news.pub/index.html
 creation BuilderNews
-try https://youtu.be/obmqd6OJA8s?si=T5vJCi8PUYORsoUds
+try https://www.youtube.com/embed/0-obmqd6OJA8s?si=T5vJCi8PUYORsoUds
 date 11/02/2024
 buildername jim
 
