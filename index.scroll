@@ -1,0 +1,33 @@
+description News for builders.
+title BuilderNews
+
+header.scroll
+
+jsonScript tries.json
+jsonScript builders.json
+
+<div class="container">
+# BuilderNews
+### Builders helping builders. Watch builders try your creations.
+links.scroll
+table tries.csv
+ compose builderPhotoLink <a onclick="openModal('{try}'); return false;" href="{try}"><img class="thumbnail" src="photos/{buildername}.jpg" /></a>
+  rename url creationLink
+   select rank creation creationLink builderPhotoLink date
+    rename builderPhotoLink tries
+     orderBy rank
+      groupBy rank
+       reduce date first date
+       reduce creationLink first creationLink
+       reduce creation first creation
+       reduce tries concat tries
+       select rank creation creationLink date tries
+        printTable
+
+modal.html
+
+footer.scroll
+
+</div>
+
+tableSearch
