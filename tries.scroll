@@ -4,6 +4,12 @@ tries.parsers
 
 // Put new tries up top
 
+url https://oasis.decart.ai/
+creation Oasis
+try https://www.youtube.com/embed/Q8EMNGclPiw?si=H3ad0d1IyvNrF3CK
+date 11/03/2024
+buildername jim
+
 url https://githubelo.web.app/
 creation GitHub Elo
 try https://www.youtube.com/embed/SqqgjZ_jzPY?si=WHrF8rt2tcS4jwZw
