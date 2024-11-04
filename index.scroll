@@ -8,7 +8,7 @@ jsonScript builders.json
 
 <div class="container">
 # BuilderNews
-### Builders helping builders. Watch builders try your creations.
+### Web builders helping web builders. Watch builders try your creations.
 links.scroll
 table tries.csv
  compose builderPhotoLink <a onclick="openModal('{try}'); return false;" href="{try}"><img class="thumbnail" src="photos/{buildername}.jpg" /></a>
