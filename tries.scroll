@@ -4,6 +4,12 @@ tries.parsers
 
 // Put new tries up top
 
+url https://quilibrium.com/
+creation Quilibrium
+try https://www.youtube.com/embed/9lmf_ObVpm4?si=QgC7DuTpdIxvImMv
+date 11/06/2024
+buildername breck
+
 url https://vercel.com/
 creation Vercel
 try https://www.loom.com/embed/ca92da66d0964500a5563cc9c25ac8a3?sid=e5057199-3ddb-4e47-ab36-97b72d4f6d43
