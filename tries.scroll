@@ -4,6 +4,12 @@ tries.parsers
 
 // Put new tries up top
 
+url https://threadsight.xyz/
+creation Threadsight
+try https://www.youtube.com/watch?v=6wYBenANb-E
+date 11/06/2024
+buildername breck
+
 url https://news.kiwistand.com/
 creation Kiwi News
 try https://www.youtube.com/embed/vT7GjQP9FfI?si=jKugXnrzDeFnBckm
