@@ -4,6 +4,12 @@ tries.parsers
 
 // Put new tries up top
 
+url https://designkitchen.dev/if-not-wordpress-then-what/
+creation If Not Wordpress Then What
+try https://www.youtube.com/embed/ZT1Isxd_dV4?si=RlzKAPT8BsJW0dKY
+date 11/06/2024
+buildername breck
+
 url https://threadsight.xyz/
 creation Threadsight
 try https://www.youtube.com/embed/6wYBenANb-E?si=zJeJdK9IU5rdqONe
