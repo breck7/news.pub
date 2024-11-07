@@ -4,6 +4,12 @@ tries.parsers
 
 // Put new tries up top
 
+url https://news.kiwistand.com/
+creation Kiwi News
+try https://www.youtube.com/embed/vT7GjQP9FfI?si=jKugXnrzDeFnBckm
+date 11/06/2024
+buildername breck
+
 url https://quilibrium.com/
 creation Quilibrium
 try https://www.youtube.com/embed/9lmf_ObVpm4?si=QgC7DuTpdIxvImMv
