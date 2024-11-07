@@ -91,8 +91,8 @@
       (item) => item.buildername === match.buildername,
     );
   };
-  const getTitle = (tryUrl) =>
-    window.tries.find((item) => item.try === tryUrl)?.creation;
+  const getCreation = (tryUrl) =>
+    window.tries.find((item) => item.try === tryUrl);
   function openModal(url) {
     if (!url.includes("embed")) {
       // if the url doesn't include embed, just go to site.
@@ -106,9 +106,9 @@
     document.getElementById("theVideo").src = url;
     document.getElementById("videoModal").style.display = "block";
     const builder = getBuilder(url);
-    const title = getTitle(url);
+    const creation = getCreation(url);
     document.getElementById("videoTitle").textContent =
-      `${builder.buildername} tries ${title}`;
+      `${builder.buildername} tries <a href="${creation.url}">${creation.creation}</a>`;
     let social = "youtube twitter gits instagram homepage".split(" ");
     let socialUrl;
     let socialTitle;
