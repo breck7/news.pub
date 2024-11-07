@@ -107,8 +107,8 @@
     document.getElementById("videoModal").style.display = "block";
     const builder = getBuilder(url);
     const creation = getCreation(url);
-    document.getElementById("videoTitle").textContent =
-      `${builder.buildername} tries <a href="${creation.url}">${creation.creation}</a>`;
+    document.getElementById("videoTitle").innerHTML =
+      `${builder.buildername} tries <a target="creation" href="${creation.url}">${creation.creation}</a>`;
     let social = "youtube twitter gits instagram homepage".split(" ");
     let socialUrl;
     let socialTitle;
