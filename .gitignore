@@ -10,3 +10,4 @@ package-lock.json
 *.json
 *.tsv
 data/
+requests.scroll
