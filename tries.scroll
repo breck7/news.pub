@@ -4,6 +4,12 @@ tries.parsers
 
 // Put new tries up top
 
+url https://memelord.tech/
+creation Memelord
+try https://www.youtube.com/embed/ta0bXAb35Pc?si=TY6kepcAB4axKLTb
+date 11/16/2024
+buildername breck
+
 url https://codemia.io/
 creation Codemia
 try https://www.youtube.com/embed/-RIL2ZPo7g4?si=FchtKx6br_b9y0DI
