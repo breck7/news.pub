@@ -4,6 +4,12 @@ tries.parsers
 
 // Put new tries up top
 
+url https://read.cv
+creation Read.cv
+try https://www.youtube.com/embed/VLaYVc2g1Js?si=u-89rvg39xcHl3sB
+date 11/18/2024
+buildername breck
+
 url https://memelord.tech/
 creation Memelord
 try https://www.youtube.com/embed/ta0bXAb35Pc?si=TY6kepcAB4axKLTb
