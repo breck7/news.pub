@@ -4,6 +4,12 @@ tries.parsers
 
 // Put new tries up top
 
+url https://www.steveruiz.me/
+creation Steveruiz.me
+try https://www.loom.com/embed/656b6e7b627a4663be4eb6b9afe6ac73?sid=7e315089-98cd-4aeb-8fb6-2c50278d0177
+date 11/24/2024
+buildername breck
+
 url https://read.cv
 creation Read.cv
 try https://www.youtube.com/embed/VLaYVc2g1Js?si=u-89rvg39xcHl3sB
