@@ -4,6 +4,12 @@ tries.parsers
 
 // Put new tries up top
 
+url https://openfabric.dev/
+creation OpenFabric.ai
+try https://www.youtube.com/watch?v=eMuA5s-eFTQ
+date 11/27/2024
+buildername breck
+
 url https://www.silentpoems.net
 creation SilentPoems.net
 try https://www.youtube.com/embed/24jjvAhEBCQ?si=BE3MZud3I5wShWiN
