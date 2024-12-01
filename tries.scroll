@@ -4,6 +4,12 @@ tries.parsers
 
 // Put new tries up top
 
+url https://giffium.com/
+creation giffium.com
+try https://www.youtube.com/watch?v=Lupsdqjib48&t=624s
+date 11/30/2024
+buildername breck
+
 url https://openfabric.dev/
 creation OpenFabric.ai
 try https://www.youtube.com/embed/eMuA5s-eFTQ?si=V8X6-SpoWfPwFMAA
