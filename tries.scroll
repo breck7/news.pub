@@ -4,6 +4,12 @@ tries.parsers
 
 // Put new tries up top
 
+url https://github.com/viktorchernev/DescribeCompiler
+creation Describe Markup Language
+try https://www.youtube.com/embed/-L6V9Bvdvvg?si=FVIUgJZBgj8HRumV
+date 12/04/2024
+buildername breck
+
 url https://giffium.com/
 creation giffium.com
 try https://www.youtube.com/watch?v=Lupsdqjib48&t=624s
