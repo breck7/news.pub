@@ -4,6 +4,12 @@ tries.parsers
 
 // Put new tries up top
 
+url https://github.com/farcasterxyz/protocol/discussions/207
+creation SnapChain
+try https://www.youtube.com/embed/MLhJRBOqzZw?si=IymPi0F6-iqMioTo
+date 12/06/2024
+buildername breck
+
 url https://github.com/viktorchernev/DescribeCompiler
 creation Describe Markup Language
 try https://www.youtube.com/embed/-L6V9Bvdvvg?si=FVIUgJZBgj8HRumV
