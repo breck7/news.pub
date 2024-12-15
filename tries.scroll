@@ -4,6 +4,12 @@ tries.parsers
 
 // Put new tries up top
 
+url https://www.quantamagazine.org/what-is-entropy-a-measure-of-just-how-little-we-really-know-20241213/
+creation What is Entropy?
+try https://www.youtube.com/embed/hu7AW-z3lWw?si=Kp7DIxVF8LyehvMs
+date 12/14/2024
+buildername breck
+
 url https://www.indie.vc/
 creation Indie.vc
 try https://www.loom.com/embed/b715318c683042be8a4bf9a8e8fa84ff?sid=fdc80848-6340-4e44-863f-41b8b938feaa
