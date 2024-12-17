@@ -1,6 +1,7 @@
 urlParser
  extends abstractIdParser
  description URL to the creation being tried?
+ atoms cueAtom urlAtom
  float sortIndex 1.1
  required
 
