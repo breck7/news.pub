@@ -4,6 +4,12 @@ tries.parsers
 
 // Put new tries up top
 
+url https://computer.tldraw.com/
+creation tldraw computer
+try https://www.youtube.com/embed/lsg6mRoMcjI?si=4yoHDarhVjkS7d95
+date 12/18/2024
+buildername breck
+
 url https://www.quantamagazine.org/what-is-entropy-a-measure-of-just-how-little-we-really-know-20241213/
 creation What is Entropy?
 try https://www.youtube.com/embed/hu7AW-z3lWw?si=Kp7DIxVF8LyehvMs
