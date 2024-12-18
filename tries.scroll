@@ -4,6 +4,12 @@ tries.parsers
 
 // Put new tries up top
 
+url https://www.anky.bot/
+creation anky
+try https://www.youtube.com/embed/H-IJyPOwIQ0?si=q3m3_TDlMK4At-MQ
+date 12/18/2024
+buildername breck
+
 url https://computer.tldraw.com/
 creation tldraw computer
 try https://www.youtube.com/embed/lsg6mRoMcjI?si=4yoHDarhVjkS7d95
