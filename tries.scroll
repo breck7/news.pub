@@ -4,6 +4,11 @@ tries.parsers
 
 // Put new tries up top
 
+url https://verdex.cc/
+creation Verdex
+try https://www.youtube.com/embed/-q7PmlP1IOo?si=mu88hNR8Y403fRHs
+date 1/07/2025
+buildername breck
 
 url https://chshersh.com/blog/2025-01-06-the-most-elegant-configuration-language.html
 creation Categorical Configuration Language
