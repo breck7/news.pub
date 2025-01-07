@@ -4,6 +4,12 @@ tries.parsers
 
 // Put new tries up top
 
+url https://galaxybrain.com/
+creation GalaxyBrain
+try https://www.youtube.com/embed/393ZIOeDa9Q?si=PiJQ7Ua_ERJR85qU
+date 1/07/2025
+buildername breck
+
 url https://www.anky.bot/
 creation anky
 try https://www.youtube.com/embed/H-IJyPOwIQ0?si=q3m3_TDlMK4At-MQ
