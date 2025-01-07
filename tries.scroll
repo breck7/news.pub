@@ -4,8 +4,14 @@ tries.parsers
 
 // Put new tries up top
 
+url https://www.rae.chat/
+creation Rae - Online therapist
+try https://www.youtube.com/embed/QCwz4hrobq4?si=vRZt0PdNsKrjtbVp
+date 1/07/2025
+buildername breck
+
 url https://verdex.cc/
-creation Verdex
+creation Verdex - 3D printing
 try https://www.youtube.com/embed/-q7PmlP1IOo?si=mu88hNR8Y403fRHs
 date 1/07/2025
 buildername breck
