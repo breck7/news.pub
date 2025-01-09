@@ -4,8 +4,14 @@ tries.parsers
 
 // Put new tries up top
 
+url https://tryamia.netlify.app/
+creation Amia - AI therapist
+try https://www.youtube.com/embed/aL5dE29Vpps?si=5fh_jvH2t7PCzDO5
+date 1/08/2025
+buildername breck
+
 url https://www.rae.chat/
-creation Rae - Online therapist
+creation Rae - AI therapist
 try https://www.youtube.com/embed/QCwz4hrobq4?si=vRZt0PdNsKrjtbVp
 date 1/07/2025
 buildername breck
