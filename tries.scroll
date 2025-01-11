@@ -4,6 +4,12 @@ tries.parsers
 
 // Put new tries up top
 
+url https://www.preswald.com/
+creation Preswald
+try https://www.loom.com/embed/cc7a39eaaee3432a9aabfb6f54a708c6?sid=f2433e6f-d1a1-43e9-b38e-c3dac1b3b27c
+date 1/10/2025
+buildername breck
+
 url https://www.talkwithamia.com/
 creation Amia - AI therapist
 try https://www.youtube.com/embed/aL5dE29Vpps?si=5fh_jvH2t7PCzDO5
