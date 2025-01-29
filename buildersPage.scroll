@@ -9,7 +9,7 @@ header.scroll
 
 <div class="container">
 # Builders
-table
+datatable
  links email twitter homepage gits instagram youtube
   printTable
 tableSearch
