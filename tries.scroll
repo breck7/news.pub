@@ -4,6 +4,12 @@ tries.parsers
 
 // Put new tries up top
 
+url https://find.fl1nt.dev/
+creation website finder
+try https://www.loom.com/embed/f98df53a275e47178913ed55fc7b98da?sid=18a84db7-e6f6-4f09-af4c-ba23218a1c44
+date 1/28/2025
+buildername breck
+
 url https://xls.feldera.io/
 creation Feldera
 try https://www.loom.com/embed/a3338372b5cd49b09a69200dc2d23b91?sid=bf3ab8fe-b511-430b-bd7c-4764e076f4f6
