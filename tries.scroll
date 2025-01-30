@@ -4,6 +4,12 @@ tries.parsers
 
 // Put new tries up top
 
+url https://demo.exa.ai/deepseekchat
+creation Exa
+try https://x.com/breckyunits/status/1885087298599137326
+date 1/30/2025
+buildername breck
+
 url https://corca.app
 creation corca
 try https://www.loom.com/embed/45fa6d356fd9404aa15b782f37f53d28?sid=a7107df0-b688-47e2-bba0-ee0e565c1fbe
