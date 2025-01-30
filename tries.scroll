@@ -4,6 +4,12 @@ tries.parsers
 
 // Put new tries up top
 
+url https://codeberg.org/samedev/colider
+creation colider
+try https://www.loom.com/embed/875d24a5edd144bbb6209a2540d9f9db?sid=6055fac0-28c1-4dc5-af15-07e1694ac579
+date 1/29/2025
+buildername breck
+
 url https://find.fl1nt.dev/
 creation website finder
 try https://www.loom.com/embed/f98df53a275e47178913ed55fc7b98da?sid=18a84db7-e6f6-4f09-af4c-ba23218a1c44
