@@ -2,7 +2,8 @@ buildernameParser
  cue buildername
  extends abstractIdParser
  description What is your builder name?
- atoms anyAtom
+ atoms cueAtom
+ catchAllAtomType anyAtom
  float sortIndex 1.1
 nameParser
  extends abstractStringMeasureParser
